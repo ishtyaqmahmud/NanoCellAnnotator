@@ -33,7 +33,7 @@ NanoCellAnnotator follows a deterministic, multi-stage pipeline:
 
 <img width="909" height="452" alt="Methodology" src="https://github.com/user-attachments/assets/9cef378d-424b-4b8f-81b7-5045a7574ff8" />
 
-**Figure:** Schematic overview of the NanoCellAnnotator framework. The pipeline decouples spatial structure discovery, deterministic biological evidence construction, constrained language-model inference, and confidence-aware annotation to ensure reproducibility and biological grounding.
+**Figure:** Schematic of the NanoCellAnnotator framework. The pipeline decouples spatial clustering from semantic inference to ensure reproducibility. (1) Spatial Structure Discovery: Raw data is processed via hybrid spatially regularized NMF (hSNMF) to identify coherent tissue domains. (2) Biological Evidence Construction: Marker genes are mapped to functional GO terms and constrained by reference databases (PanglaoDB, CellMarker). (3) Constrained Semantic Inference: A lightweight LLM (NanoLLM) assigns labels using only structured summaries—without access to raw expression—to ensure deterministic outputs. (4) Confidence Assessment: Final annotations are validated against marker support to explicitly flag ambiguous clusters.
 
 
 ## Reference
