@@ -29,5 +29,15 @@ NanoCellAnnotator follows a deterministic, multi-stage pipeline:
 4. **Confidence-Aware Annotation**
    Marker-gene support strength and lineage separation are evaluated independently to determine annotation confidence and flag ambiguous clusters.
 
+## Framework Overview
 
 <img width="909" height="452" alt="Methodology" src="https://github.com/user-attachments/assets/9cef378d-424b-4b8f-81b7-5045a7574ff8" />
+
+**Figure:** Schematic overview of the NanoCellAnnotator framework. The pipeline decouples spatial structure discovery, deterministic biological evidence construction, constrained language-model inference, and confidence-aware annotation to ensure reproducibility and biological grounding.
+
+
+## Reference
+
+If you use NanoCellAnnotator, please cite:
+
+Mahmud, M.I., Anzum, H., Kochat, V., Satpati, S., Rai, K., and Banerjee, T. *NanoCellAnnotator: Formalizing Expert Cell Type Annotation with Large Language Models*. ISMB 2026 (submitted).
