@@ -11,3 +11,20 @@ A lightweight large language model (NanoLLM) is employed solely as a constrained
 Importantly, annotation confidence is assessed independently of language-model inference based on marker-gene support strength and lineage separation. This allows ambiguous or heterogeneous spatial clusters to be explicitly flagged rather than forcibly labeled, preserving biologically meaningful uncertainty.
 
 NanoCellAnnotator operates in a fully unsupervised setting and does not rely on labeled training data or reference atlases. The framework emphasizes reproducibility, interpretability, and evidence-consistent reasoning, making it suitable for both academic research and translational applications in spatial transcriptomics.
+
+
+## Methodology Summary
+
+NanoCellAnnotator follows a deterministic, multi-stage pipeline:
+
+1. **Upstream Spatial Structure Discovery**
+   Spatially coherent cellular domains are identified using spatially regularized clustering, independent of any cell-type labels.
+
+2. **Deterministic Biological Evidence Construction**
+   Cluster-specific marker genes are extracted and mapped to ontology-derived functional programs using Gene Ontology enrichment and GO-slim projection. Curated databases are used only to restrict admissible cell-type labels.
+
+3. **Constrained Semantic Inference**
+   A lightweight LLM (NanoLLM) selects a single cell-type label per cluster from the restricted label space based solely on structured biological summaries.
+
+4. **Confidence-Aware Annotation**
+   Marker-gene support strength and lineage separation are evaluated independently to determine annotation confidence and flag ambiguous clusters.
