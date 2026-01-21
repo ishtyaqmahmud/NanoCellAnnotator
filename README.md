@@ -28,3 +28,6 @@ NanoCellAnnotator follows a deterministic, multi-stage pipeline:
 
 4. **Confidence-Aware Annotation**
    Marker-gene support strength and lineage separation are evaluated independently to determine annotation confidence and flag ambiguous clusters.
+
+
+<img width="909" height="452" alt="Methodology" src="https://github.com/user-attachments/assets/9cef378d-424b-4b8f-81b7-5045a7574ff8" />
