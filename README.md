@@ -1,4 +1,4 @@
-# NanoCellAnnotator
+# NanoCellAnnotator: Formalizing Expert Cell Type Annotation with Large Language Models
 
 ## Overview
 
