@@ -1,0 +1,34 @@
+# Core scientific stack
+numpy
+pandas
+scipy
+scikit-learn
+statsmodels
+
+# Spatial / single-cell analysis
+scanpy
+anndata
+igraph
+leidenalg
+umap-learn
+
+# Visualization
+matplotlib
+seaborn
+
+# LLM and NLP
+torch
+transformers
+accelerate
+sentencepiece
+tokenizers
+
+# Utilities
+tqdm
+pyyaml
+requests
+rapidfuzz
+
+# Jupyter (for notebooks)
+jupyter
+ipykernel
