@@ -16,21 +16,21 @@
 - **Edge-Ready Deployment**: The pipeline utilizes Qwen2.5-1.5B-Instruct, a lightweight, locally executable model that ensures reproducibility and data privacy on commodity-grade hardware.
 
 
-## Methodology Summary
+## ⚙️ Methodology Summary
 
 NanoCellAnnotator follows a deterministic, multi-stage pipeline:
 
 1. **Upstream Spatial Structure Discovery**
-   Spatially coherent cellular domains are identified using spatially regularized clustering, independent of any cell-type labels.
+   Spatially coherent cellular domains are identified using Hybrid Spatially Regularized Non-negative Matrix Factorization (hSNMF). This stage is model-agnostic and operates independently of any cell-type labels to define geometrically contiguous domains.
 
 2. **Deterministic Biological Evidence Construction**
-   Cluster-specific marker genes are extracted and mapped to ontology-derived functional programs using Gene Ontology enrichment and GO-slim projection. Curated databases are used only to restrict admissible cell-type labels.
+   Cluster-specific marker genes are extracted via differential expression analysis. These markers are mapped to ontology-derived functional programs using GO enrichment and GO-slim projection to provide stable summaries of biological activity.
 
 3. **Constrained Semantic Inference**
-   A lightweight LLM (NanoLLM) selects a single cell-type label per cluster from the restricted label space based solely on structured biological summaries.
+   A lightweight, locally executed LLM (Qwen2.5-1.5B) selects a single cell-type label per cluster. The inference is strictly bounded by an admissible label space derived from PanglaoDB and CellMarker to prevent biologically unsupported predictions.
 
 4. **Confidence-Aware Annotation**
-   Marker-gene support strength and lineage separation are evaluated independently to determine annotation confidence and flag ambiguous clusters.
+   Annotation confidence is assessed independently of the LLM by quantifying marker-gene support strength and lineage separation. This allows the framework to explicitly flag ambiguous or heterogeneous clusters as "Unresolved" rather than forcing a label.
 
 ## Framework Overview
 
