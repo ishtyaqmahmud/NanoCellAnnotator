@@ -35,6 +35,21 @@ NanoCellAnnotator follows a deterministic, multi-stage pipeline:
 
 **Figure:** Schematic of the NanoCellAnnotator framework. The pipeline decouples spatial clustering from semantic inference to ensure reproducibility. (1) Spatial Structure Discovery: Raw data is processed via hybrid spatially regularized NMF (hSNMF) to identify coherent tissue domains. (2) Biological Evidence Construction: Marker genes are mapped to functional GO terms and constrained by reference databases (PanglaoDB, CellMarker). (3) Constrained Semantic Inference: A lightweight LLM (NanoLLM) assigns labels using only structured summaries—without access to raw expression—to ensure deterministic outputs. (4) Confidence Assessment: Final annotations are validated against marker support to explicitly flag ambiguous clusters.
 
+## Data Availability
+
+The clinical Xenium spatial transcriptomics datasets used in this study were obtained from MD Anderson Cancer Center and are subject to institutional and patient privacy restrictions.
+
+Due to these constraints, raw clinical data cannot be publicly released.
+
+To ensure transparency and reproducibility, this repository provides:
+
+- The complete NanoCellAnnotator pipeline implementation
+- All curated public reference resources (PanglaoDB, CellMarker, GO-slim)
+- Synthetic and public example datasets that replicate the full
+  annotation workflow
+
+Researchers with access to appropriate Xenium datasets may apply NanoCellAnnotator directly to their own data following the provided instructions.
+
 
 ## Reference
 
