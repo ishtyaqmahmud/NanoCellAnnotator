@@ -109,7 +109,20 @@ Begin by downloading the NanoCellAnnotator codebase from GitHub:
 git clone [https://github.com/ishtyaqmahmud/NanoCellAnnotator.git](https://github.com/ishtyaqmahmud/NanoCellAnnotator.git)
 cd NanoCellAnnotator
 ```
+### 2. Create a Virtual Environment 
+To avoid dependency conflicts, we strongly recommend using a dedicated Python 3.10 environment.
 
+```bash
+conda create -n nano_llm_env python=3.10 -y
+conda activate nano_llm_env
+```
+
+### 3. Install Dependencies
+All required high-level Python dependencies are listed in the requirements.txt file located at the repository root. Install them via pip:
+```bash
+pip install --upgrade pip
+pip install -r requirements.txt
+```
 
 
 ## Reference
