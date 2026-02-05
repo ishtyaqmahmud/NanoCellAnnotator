@@ -95,46 +95,20 @@ Contains notebooks and outputs used to generate ablation results reported in the
 
 These experiments isolate the effects of evidence representation and constraint mechanisms.
 
-## Installation
+## 🚀 Installation
 
-This section provides step-by-step instructions to set up
-NanoCellAnnotator in a clean and reproducible Python environment.
-The implementation is designed to be platform-agnostic and
-has been tested on macOS and Linux systems.
+This section provides step-by-step instructions to set up **NanoCellAnnotator** in a clean and reproducible Python environment. The implementation is designed to be platform-agnostic and has been tested on macOS and Linux systems.
 
 ---
 
 ### 1. Clone the Repository
 
-Download the NanoCellAnnotator codebase from GitHub:
+Begin by downloading the NanoCellAnnotator codebase from GitHub:
 
-git clone https://github.com/ishtyaqmahmud/NanoCellAnnotator.git
+```bash
+git clone [https://github.com/ishtyaqmahmud/NanoCellAnnotator.git](https://github.com/ishtyaqmahmud/NanoCellAnnotator.git)
 cd NanoCellAnnotator
-
-Alternatively, the repository can be downloaded as a ZIP archive
-using the Code → Download ZIP option on GitHub.
-
-2. Create a Python Environment (Recommended)
-
-We recommend using a dedicated Python 3.10 environment to
-avoid dependency conflicts.
-
-Using conda:
-
-conda create -n nano_llm_env python=3.10
-conda activate nano_llm_env
-
-Users may also use other environment managers (e.g., venv),
-provided Python 3.10 or later is available.
-
-3. Install Dependencies
-
-All required high-level Python dependencies are listed in
-requirements.txt at the repository root.
-
-Install them using:
-
-pip install -r requirements.txt
+```
 
 
 
