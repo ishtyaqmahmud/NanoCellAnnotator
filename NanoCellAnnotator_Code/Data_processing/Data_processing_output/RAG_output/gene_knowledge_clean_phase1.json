@@ -1,0 +1,3187 @@
+{
+  "ABCC4": {
+    "source": "PanglaoDB",
+    "cell_type": "Platelets",
+    "description": "ATP binding cassette subfamily C member 4",
+    "match_type": "exact",
+    "confidence_score": 100
+  },
+  "ACE2": {
+    "source": "PanglaoDB",
+    "cell_type": "Basal cells",
+    "description": "beta-secretase 2",
+    "match_type": "fuzzy",
+    "confidence_score": 88
+  },
+  "ACSL5": {
+    "source": "PanglaoDB",
+    "cell_type": "Enterocytes",
+    "description": "acyl-CoA synthetase long chain family member 5",
+    "match_type": "exact",
+    "confidence_score": 100
+  },
+  "ADAM12": {
+    "source": "PanglaoDB",
+    "cell_type": "Adipocytes",
+    "description": "ADAM metallopeptidase domain 12",
+    "match_type": "exact",
+    "confidence_score": 100
+  },
+  "ADH4": {
+    "source": "PanglaoDB",
+    "cell_type": "Airway epithelial cells",
+    "description": "alcohol dehydrogenase 7 (class IV), mu or sigma polypeptide",
+    "match_type": "fuzzy",
+    "confidence_score": 88
+  },
+  "ADH6": {
+    "source": "PanglaoDB",
+    "cell_type": "Ductal cells",
+    "description": "aldehyde dehydrogenase 1 family member A3",
+    "match_type": "fuzzy",
+    "confidence_score": 88
+  },
+  "AFF3": {
+    "source": "PanglaoDB",
+    "cell_type": "Epsilon cells",
+    "description": "AF4/FMR2 family member 3",
+    "match_type": "exact",
+    "confidence_score": 100
+  },
+  "AGR2": {
+    "source": "PanglaoDB",
+    "cell_type": "Airway goblet cells",
+    "description": "anterior gradient 2, protein disulphide isomerase family member",
+    "match_type": "exact",
+    "confidence_score": 100
+  },
+  "AGR3": {
+    "source": "CellMarker",
+    "cell_type": "Normal cell",
+    "description": "anterior gradient 3, protein disulphide isomerase family member",
+    "match_type": "exact",
+    "confidence_score": 100
+  },
+  "AGXT": {
+    "source": "PanglaoDB",
+    "cell_type": "Proximal tubule cells",
+    "description": "alanine--glyoxylate aminotransferase 2",
+    "match_type": "fuzzy",
+    "confidence_score": 88
+  },
+  "AGXT2": {
+    "source": "PanglaoDB",
+    "cell_type": "Proximal tubule cells",
+    "description": "alanine--glyoxylate aminotransferase 2",
+    "match_type": "exact",
+    "confidence_score": 100
+  },
+  "AHSG": {
+    "source": "PanglaoDB",
+    "cell_type": "Erythroid-like and erythroid precursor cells",
+    "description": "alpha 2-HS glycoprotein",
+    "match_type": "exact",
+    "confidence_score": 100
+  },
+  "AIF1": {
+    "source": "PanglaoDB",
+    "cell_type": "Dendritic cells",
+    "description": "allograft inflammatory factor 1",
+    "match_type": "exact",
+    "confidence_score": 100
+  },
+  "AKR1B10": {
+    "source": "PanglaoDB",
+    "cell_type": "Foveolar cells",
+    "description": "aldo-keto reductase family 1 member B10",
+    "match_type": "exact",
+    "confidence_score": 100
+  },
+  "AKR1C1": {
+    "source": "PanglaoDB",
+    "cell_type": "Hepatocytes",
+    "description": "aldo-keto reductase family 1 member C1",
+    "match_type": "exact",
+    "confidence_score": 100
+  },
+  "AKR1C3": {
+    "source": "PanglaoDB",
+    "cell_type": "Acinar cells",
+    "description": "aldo-keto reductase family 1 member C3",
+    "match_type": "exact",
+    "confidence_score": 100
+  },
+  "ALDH1A1": {
+    "source": "PanglaoDB",
+    "cell_type": "Alpha cells",
+    "description": "aldehyde dehydrogenase 1 family member A1",
+    "match_type": "exact",
+    "confidence_score": 100
+  },
+  "ALDOB": {
+    "source": "PanglaoDB",
+    "cell_type": "Acinar cells",
+    "description": "aldolase, fructose-bisphosphate B",
+    "match_type": "exact",
+    "confidence_score": 100
+  },
+  "ALKAL2": {
+    "source": "CellMarker",
+    "cell_type": "Normal cell",
+    "description": "ALK and LTK ligand 2",
+    "match_type": "exact",
+    "confidence_score": 100
+  },
+  "AMN": {
+    "source": "CellMarker",
+    "cell_type": "Normal cell",
+    "description": "amelotin",
+    "match_type": "fuzzy",
+    "confidence_score": 85
+  },
+  "ANPEP": {
+    "source": "PanglaoDB",
+    "cell_type": "Acinar cells",
+    "description": "alanyl aminopeptidase, membrane",
+    "match_type": "exact",
+    "confidence_score": 100
+  },
+  "ANXA1": {
+    "source": "PanglaoDB",
+    "cell_type": "Dendritic cells",
+    "description": "annexin A1",
+    "match_type": "exact",
+    "confidence_score": 100
+  },
+  "ANXA13": {
+    "source": "PanglaoDB",
+    "cell_type": "Epsilon cells",
+    "description": "annexin A13",
+    "match_type": "exact",
+    "confidence_score": 100
+  },
+  "ANXA3": {
+    "source": "PanglaoDB",
+    "cell_type": "Epsilon cells",
+    "description": "annexin A13",
+    "match_type": "fuzzy",
+    "confidence_score": 90
+  },
+  "ANXA4": {
+    "source": "PanglaoDB",
+    "cell_type": "Ductal cells",
+    "description": "annexin A4",
+    "match_type": "exact",
+    "confidence_score": 100
+  },
+  "APCDD1": {
+    "source": "CellMarker",
+    "cell_type": "Normal cell",
+    "description": "APC down-regulated 1",
+    "match_type": "exact",
+    "confidence_score": 100
+  },
+  "APOA4": {
+    "source": "PanglaoDB",
+    "cell_type": "Enterocytes",
+    "description": "apolipoprotein A4",
+    "match_type": "exact",
+    "confidence_score": 100
+  },
+  "APOA5": {
+    "source": "PanglaoDB",
+    "cell_type": "Hepatocytes",
+    "description": "apolipoprotein A5",
+    "match_type": "exact",
+    "confidence_score": 100
+  },
+  "APOD": {
+    "source": "PanglaoDB",
+    "cell_type": "Schwann cells",
+    "description": "apolipoprotein D",
+    "match_type": "exact",
+    "confidence_score": 100
+  },
+  "AQP1": {
+    "source": "PanglaoDB",
+    "cell_type": "Airway epithelial cells",
+    "description": "aquaporin 1 (Colton blood group)",
+    "match_type": "exact",
+    "confidence_score": 100
+  },
+  "ARG1": {
+    "source": "PanglaoDB",
+    "cell_type": "Dendritic cells",
+    "description": "arginase 1",
+    "match_type": "exact",
+    "confidence_score": 100
+  },
+  "ARHGAP24": {
+    "source": "PanglaoDB",
+    "cell_type": "Podocytes",
+    "description": "Rho GTPase activating protein 24",
+    "match_type": "exact",
+    "confidence_score": 100
+  },
+  "ARSE": {
+    "source": "PanglaoDB",
+    "cell_type": "Oligodendrocytes",
+    "description": "TYRO3 protein tyrosine kinase",
+    "match_type": "fuzzy",
+    "confidence_score": 85
+  },
+  "ART4": {
+    "source": "PanglaoDB",
+    "cell_type": "Chromaffin cells",
+    "description": "agouti related neuropeptide",
+    "match_type": "fuzzy",
+    "confidence_score": 85
+  },
+  "ASCL1": {
+    "source": "PanglaoDB",
+    "cell_type": "Immature neurons",
+    "description": "achaete-scute family bHLH transcription factor 1",
+    "match_type": "exact",
+    "confidence_score": 100
+  },
+  "ASPN": {
+    "source": "PanglaoDB",
+    "cell_type": "Enterocytes",
+    "description": "asporin",
+    "match_type": "exact",
+    "confidence_score": 100
+  },
+  "ATP1A1": {
+    "source": "CellMarker",
+    "cell_type": "Normal cell",
+    "description": "ATPase Na+/K+ transporting subunit alpha 3",
+    "match_type": "exact",
+    "confidence_score": 100
+  },
+  "AURKA": {
+    "source": "CellMarker",
+    "cell_type": "Normal cell",
+    "description": "aurora kinase A",
+    "match_type": "exact",
+    "confidence_score": 100
+  },
+  "AURKB": {
+    "source": "PanglaoDB",
+    "cell_type": "Gamma delta T cells",
+    "description": "aurora kinase B",
+    "match_type": "exact",
+    "confidence_score": 100
+  },
+  "BAMBI": {
+    "source": "CellMarker",
+    "cell_type": "Normal cell",
+    "description": "BMP and activin membrane bound inhibitor",
+    "match_type": "exact",
+    "confidence_score": 100
+  },
+  "BANK1": {
+    "source": "PanglaoDB",
+    "cell_type": "B cells",
+    "description": "B cell scaffold protein with ankyrin repeats 1",
+    "match_type": "exact",
+    "confidence_score": 100
+  },
+  "BATF": {
+    "source": "PanglaoDB",
+    "cell_type": "Dendritic cells",
+    "description": "basic leucine zipper ATF-like transcription factor 3",
+    "match_type": "fuzzy",
+    "confidence_score": 88
+  },
+  "BCL2L15": {
+    "source": "PanglaoDB",
+    "cell_type": "Germ cells",
+    "description": "BCL2 like 14",
+    "match_type": "fuzzy",
+    "confidence_score": 85
+  },
+  "BICC1": {
+    "source": "CellMarker",
+    "cell_type": "Normal cell",
+    "description": "BicC family RNA binding protein 1",
+    "match_type": "exact",
+    "confidence_score": 100
+  },
+  "BIRC5": {
+    "source": "PanglaoDB",
+    "cell_type": "Gamma delta T cells",
+    "description": "baculoviral IAP repeat containing 5",
+    "match_type": "exact",
+    "confidence_score": 100
+  },
+  "BMPR1A": {
+    "source": "CellMarker",
+    "cell_type": "Normal cell",
+    "description": "bone morphogenetic protein receptor type 1A",
+    "match_type": "exact",
+    "confidence_score": 100
+  },
+  "BRAF": {
+    "source": "PanglaoDB",
+    "cell_type": "B cells naive",
+    "description": "B-Raf proto-oncogene, serine/threonine kinase",
+    "match_type": "exact",
+    "confidence_score": 100
+  },
+  "BSG": {
+    "source": "CellMarker",
+    "cell_type": "Normal cell",
+    "description": "basigin (Ok blood group)",
+    "match_type": "exact",
+    "confidence_score": 100
+  },
+  "C15ORF48": {
+    "source": "PanglaoDB",
+    "cell_type": "Acinar cells",
+    "description": "chromosome 15 open reading frame 48",
+    "match_type": "exact",
+    "confidence_score": 100
+  },
+  "C1QA": {
+    "source": "PanglaoDB",
+    "cell_type": "Kupffer cells",
+    "description": "complement C1q A chain",
+    "match_type": "exact",
+    "confidence_score": 100
+  },
+  "C1QC": {
+    "source": "PanglaoDB",
+    "cell_type": "Kupffer cells",
+    "description": "complement C1q C chain",
+    "match_type": "exact",
+    "confidence_score": 100
+  },
+  "C1QTNF12": {
+    "source": "PanglaoDB",
+    "cell_type": "Endothelial cells",
+    "description": "C1q and TNF related 1",
+    "match_type": "fuzzy",
+    "confidence_score": 93
+  },
+  "C5": {
+    "source": "CellMarker",
+    "cell_type": "Normal cell",
+    "description": "complement C5",
+    "match_type": "exact",
+    "confidence_score": 100
+  },
+  "C9ORF152": {
+    "source": "PanglaoDB",
+    "cell_type": "Germ cells",
+    "description": "spermatogenesis and oogenesis specific basic helix-loop-helix 1",
+    "match_type": "fuzzy",
+    "confidence_score": 87
+  },
+  "CA1": {
+    "source": "PanglaoDB",
+    "cell_type": "Enterocytes",
+    "description": "carbonic anhydrase 1",
+    "match_type": "exact",
+    "confidence_score": 100
+  },
+  "CALB1": {
+    "source": "PanglaoDB",
+    "cell_type": "Distal tubule cells",
+    "description": "calbindin 1",
+    "match_type": "exact",
+    "confidence_score": 100
+  },
+  "CALB2": {
+    "source": "PanglaoDB",
+    "cell_type": "Cajal-Retzius cells",
+    "description": "calbindin 2",
+    "match_type": "exact",
+    "confidence_score": 100
+  },
+  "CALCA": {
+    "source": "PanglaoDB",
+    "cell_type": "Sebocytes",
+    "description": "calcitonin related polypeptide alpha",
+    "match_type": "exact",
+    "confidence_score": 100
+  },
+  "CANX": {
+    "source": "CellMarker",
+    "cell_type": "Normal cell",
+    "description": "calnexin",
+    "match_type": "exact",
+    "confidence_score": 100
+  },
+  "CAPN8": {
+    "source": "CellMarker",
+    "cell_type": "Normal cell",
+    "description": "calpain 8",
+    "match_type": "exact",
+    "confidence_score": 100
+  },
+  "CASR": {
+    "source": "PanglaoDB",
+    "cell_type": "Beta cells",
+    "description": "calcium sensing receptor",
+    "match_type": "exact",
+    "confidence_score": 100
+  },
+  "CCL19": {
+    "source": "PanglaoDB",
+    "cell_type": "Endothelial cells",
+    "description": "C-C motif chemokine ligand 19",
+    "match_type": "exact",
+    "confidence_score": 100
+  },
+  "CCL2": {
+    "source": "PanglaoDB",
+    "cell_type": "Ductal cells",
+    "description": "C-C motif chemokine ligand 2",
+    "match_type": "exact",
+    "confidence_score": 100
+  },
+  "CCL20": {
+    "source": "PanglaoDB",
+    "cell_type": "Epithelial cells",
+    "description": "C-C motif chemokine ligand 20",
+    "match_type": "exact",
+    "confidence_score": 100
+  },
+  "CCL4": {
+    "source": "PanglaoDB",
+    "cell_type": "Basophils",
+    "description": "C-C motif chemokine ligand 4",
+    "match_type": "exact",
+    "confidence_score": 100
+  },
+  "CCL5": {
+    "source": "PanglaoDB",
+    "cell_type": "Eosinophils",
+    "description": "C-C motif chemokine ligand 5",
+    "match_type": "exact",
+    "confidence_score": 100
+  },
+  "CCL8": {
+    "source": "PanglaoDB",
+    "cell_type": "Dendritic cells",
+    "description": "C-X-C motif chemokine ligand 8",
+    "match_type": "fuzzy",
+    "confidence_score": 88
+  },
+  "CCNB1": {
+    "source": "PanglaoDB",
+    "cell_type": "Gamma delta T cells",
+    "description": "cyclin B1",
+    "match_type": "exact",
+    "confidence_score": 100
+  },
+  "CCR7": {
+    "source": "PanglaoDB",
+    "cell_type": "Astrocytes",
+    "description": "C-C motif chemokine receptor 7",
+    "match_type": "exact",
+    "confidence_score": 100
+  },
+  "CCRL2": {
+    "source": "PanglaoDB",
+    "cell_type": "Microglia",
+    "description": "C-C motif chemokine receptor like 2",
+    "match_type": "exact",
+    "confidence_score": 100
+  },
+  "CD14": {
+    "source": "PanglaoDB",
+    "cell_type": "B cells",
+    "description": "CD14 molecule",
+    "match_type": "exact",
+    "confidence_score": 100
+  },
+  "CD163": {
+    "source": "PanglaoDB",
+    "cell_type": "Dendritic cells",
+    "description": "CD163 molecule",
+    "match_type": "exact",
+    "confidence_score": 100
+  },
+  "CD2": {
+    "source": "PanglaoDB",
+    "cell_type": "B cells",
+    "description": "CD2 molecule",
+    "match_type": "exact",
+    "confidence_score": 100
+  },
+  "CD24": {
+    "source": "PanglaoDB",
+    "cell_type": "B cells",
+    "description": "CD24 molecule",
+    "match_type": "exact",
+    "confidence_score": 100
+  },
+  "CD3E": {
+    "source": "PanglaoDB",
+    "cell_type": "Macrophages",
+    "description": "CD3e molecule",
+    "match_type": "exact",
+    "confidence_score": 100
+  },
+  "CD4": {
+    "source": "PanglaoDB",
+    "cell_type": "Plasmacytoid dendritic cells",
+    "description": "CD4 molecule",
+    "match_type": "exact",
+    "confidence_score": 100
+  },
+  "CD40LG": {
+    "source": "PanglaoDB",
+    "cell_type": "Platelets",
+    "description": "CD40 ligand",
+    "match_type": "exact",
+    "confidence_score": 100
+  },
+  "CD44": {
+    "source": "PanglaoDB",
+    "cell_type": "Basophils",
+    "description": "CD44 molecule (Indian blood group)",
+    "match_type": "exact",
+    "confidence_score": 100
+  },
+  "CD63": {
+    "source": "PanglaoDB",
+    "cell_type": "Astrocytes",
+    "description": "sphingosine-1-phosphate receptor 1",
+    "match_type": "fuzzy",
+    "confidence_score": 88
+  },
+  "CD68": {
+    "source": "PanglaoDB",
+    "cell_type": "Macrophages",
+    "description": "CD68 molecule",
+    "match_type": "exact",
+    "confidence_score": 100
+  },
+  "CD7": {
+    "source": "PanglaoDB",
+    "cell_type": "Gamma delta T cells",
+    "description": "CD7 molecule",
+    "match_type": "exact",
+    "confidence_score": 100
+  },
+  "CD79B": {
+    "source": "PanglaoDB",
+    "cell_type": "B cells",
+    "description": "CD79b molecule",
+    "match_type": "exact",
+    "confidence_score": 100
+  },
+  "CD83": {
+    "source": "PanglaoDB",
+    "cell_type": "Dendritic cells",
+    "description": "CD83 molecule",
+    "match_type": "exact",
+    "confidence_score": 100
+  },
+  "CD8A": {
+    "source": "PanglaoDB",
+    "cell_type": "Dendritic cells",
+    "description": "CD8a molecule",
+    "match_type": "exact",
+    "confidence_score": 100
+  },
+  "CD8B": {
+    "source": "PanglaoDB",
+    "cell_type": "T cells",
+    "description": "CD8b molecule",
+    "match_type": "exact",
+    "confidence_score": 100
+  },
+  "CDA": {
+    "source": "PanglaoDB",
+    "cell_type": "Dendritic cells",
+    "description": "CD1a molecule",
+    "match_type": "fuzzy",
+    "confidence_score": 85
+  },
+  "CDH1": {
+    "source": "PanglaoDB",
+    "cell_type": "Airway epithelial cells",
+    "description": "cadherin 1",
+    "match_type": "exact",
+    "confidence_score": 100
+  },
+  "CDH2": {
+    "source": "PanglaoDB",
+    "cell_type": "Hematopoietic stem cells",
+    "description": "cadherin 2",
+    "match_type": "exact",
+    "confidence_score": 100
+  },
+  "CDH24": {
+    "source": "PanglaoDB",
+    "cell_type": "Tuft cells",
+    "description": "cadherin related family member 2",
+    "match_type": "fuzzy",
+    "confidence_score": 90
+  },
+  "CDH6": {
+    "source": "PanglaoDB",
+    "cell_type": "Loop of Henle cells",
+    "description": "cadherin 6",
+    "match_type": "exact",
+    "confidence_score": 100
+  },
+  "CFH": {
+    "source": "CellMarker",
+    "cell_type": "Normal cell",
+    "description": "complement factor H",
+    "match_type": "exact",
+    "confidence_score": 100
+  },
+  "CFHR4": {
+    "source": "CellMarker",
+    "cell_type": "Normal cell",
+    "description": "complement factor H related 4",
+    "match_type": "exact",
+    "confidence_score": 100
+  },
+  "CHAT": {
+    "source": "PanglaoDB",
+    "cell_type": "Cholinergic neurons",
+    "description": "choline O-acetyltransferase",
+    "match_type": "exact",
+    "confidence_score": 100
+  },
+  "CHST4": {
+    "source": "CellMarker",
+    "cell_type": "Normal cell",
+    "description": "cystatin S",
+    "match_type": "fuzzy",
+    "confidence_score": 88
+  },
+  "CHST9": {
+    "source": "PanglaoDB",
+    "cell_type": "Sertoli cells",
+    "description": "cystatin 9",
+    "match_type": "fuzzy",
+    "confidence_score": 88
+  },
+  "CLDN4": {
+    "source": "PanglaoDB",
+    "cell_type": "Cholangiocytes",
+    "description": "claudin 4",
+    "match_type": "exact",
+    "confidence_score": 100
+  },
+  "CLDN7": {
+    "source": "PanglaoDB",
+    "cell_type": "Epiblast cells",
+    "description": "claudin 7",
+    "match_type": "exact",
+    "confidence_score": 100
+  },
+  "CLHC1": {
+    "source": "CellMarker",
+    "cell_type": "Normal cell",
+    "description": "clathrin heavy chain linker domain containing 1",
+    "match_type": "exact",
+    "confidence_score": 100
+  },
+  "CLU": {
+    "source": "PanglaoDB",
+    "cell_type": "Müller cells",
+    "description": "clusterin",
+    "match_type": "exact",
+    "confidence_score": 100
+  },
+  "COCH": {
+    "source": "CellMarker",
+    "cell_type": "Normal cell",
+    "description": "cochlin",
+    "match_type": "exact",
+    "confidence_score": 100
+  },
+  "COL19A1": {
+    "source": "PanglaoDB",
+    "cell_type": "Chondrocytes",
+    "description": "collagen type IX alpha 1 chain",
+    "match_type": "fuzzy",
+    "confidence_score": 92
+  },
+  "COL4A2": {
+    "source": "PanglaoDB",
+    "cell_type": "Müller cells",
+    "description": "collagen type IV alpha 2 chain",
+    "match_type": "exact",
+    "confidence_score": 100
+  },
+  "COL5A2": {
+    "source": "PanglaoDB",
+    "cell_type": "Fibroblasts",
+    "description": "collagen type V alpha 2 chain",
+    "match_type": "exact",
+    "confidence_score": 100
+  },
+  "COL6A1": {
+    "source": "PanglaoDB",
+    "cell_type": "Chondrocytes",
+    "description": "collagen type VI alpha 1 chain",
+    "match_type": "exact",
+    "confidence_score": 100
+  },
+  "COL6A2": {
+    "source": "PanglaoDB",
+    "cell_type": "Adipocytes",
+    "description": "collagen type VI alpha 2 chain",
+    "match_type": "exact",
+    "confidence_score": 100
+  },
+  "COL6A3": {
+    "source": "PanglaoDB",
+    "cell_type": "Fibroblasts",
+    "description": "collagen type VI alpha 3 chain",
+    "match_type": "exact",
+    "confidence_score": 100
+  },
+  "CPA3": {
+    "source": "PanglaoDB",
+    "cell_type": "Basophils",
+    "description": "carboxypeptidase A3",
+    "match_type": "exact",
+    "confidence_score": 100
+  },
+  "CRYAB": {
+    "source": "PanglaoDB",
+    "cell_type": "Schwann cells",
+    "description": "crystallin alpha B",
+    "match_type": "exact",
+    "confidence_score": 100
+  },
+  "CRYBG1": {
+    "source": "PanglaoDB",
+    "cell_type": "Epithelial cells",
+    "description": "crystallin beta A1",
+    "match_type": "fuzzy",
+    "confidence_score": 90
+  },
+  "CST3": {
+    "source": "PanglaoDB",
+    "cell_type": "Neurons",
+    "description": "calsyntenin 3",
+    "match_type": "fuzzy",
+    "confidence_score": 88
+  },
+  "CTLA4": {
+    "source": "PanglaoDB",
+    "cell_type": "T regulatory cells",
+    "description": "cytotoxic T-lymphocyte associated protein 4",
+    "match_type": "exact",
+    "confidence_score": 100
+  },
+  "CTNND2": {
+    "source": "PanglaoDB",
+    "cell_type": "Pulmonary alveolar type II cells",
+    "description": "catenin delta 1",
+    "match_type": "fuzzy",
+    "confidence_score": 90
+  },
+  "CTSB": {
+    "source": "PanglaoDB",
+    "cell_type": "Alpha cells",
+    "description": "transthyretin",
+    "match_type": "fuzzy",
+    "confidence_score": 85
+  },
+  "CTSG": {
+    "source": "PanglaoDB",
+    "cell_type": "Mast cells",
+    "description": "cathepsin G",
+    "match_type": "exact",
+    "confidence_score": 100
+  },
+  "CTSK": {
+    "source": "PanglaoDB",
+    "cell_type": "Fibroblasts",
+    "description": "cathepsin K",
+    "match_type": "exact",
+    "confidence_score": 100
+  },
+  "CTTNBP2": {
+    "source": "PanglaoDB",
+    "cell_type": "Neurons",
+    "description": "cortactin binding protein 2",
+    "match_type": "exact",
+    "confidence_score": 100
+  },
+  "CX3CL1": {
+    "source": "PanglaoDB",
+    "cell_type": "Osteoblasts",
+    "description": "C-X3-C motif chemokine ligand 1",
+    "match_type": "exact",
+    "confidence_score": 100
+  },
+  "CXCL1": {
+    "source": "PanglaoDB",
+    "cell_type": "Cholangiocytes",
+    "description": "C-X-C motif chemokine ligand 1",
+    "match_type": "exact",
+    "confidence_score": 100
+  },
+  "CXCL12": {
+    "source": "PanglaoDB",
+    "cell_type": "Epiblast cells",
+    "description": "C-X-C motif chemokine ligand 12",
+    "match_type": "exact",
+    "confidence_score": 100
+  },
+  "CXCL2": {
+    "source": "PanglaoDB",
+    "cell_type": "Alveolar macrophages",
+    "description": "C-X-C motif chemokine ligand 2",
+    "match_type": "exact",
+    "confidence_score": 100
+  },
+  "CXCL3": {
+    "source": "PanglaoDB",
+    "cell_type": "Fibroblasts",
+    "description": "C-X-C motif chemokine ligand 3",
+    "match_type": "exact",
+    "confidence_score": 100
+  },
+  "CXCL8": {
+    "source": "PanglaoDB",
+    "cell_type": "Dendritic cells",
+    "description": "C-X-C motif chemokine ligand 8",
+    "match_type": "exact",
+    "confidence_score": 100
+  },
+  "CXCR4": {
+    "source": "PanglaoDB",
+    "cell_type": "B cells",
+    "description": "C-X-C motif chemokine receptor 4",
+    "match_type": "exact",
+    "confidence_score": 100
+  },
+  "CYP1A2": {
+    "source": "PanglaoDB",
+    "cell_type": "Hepatocytes",
+    "description": "cytochrome P450 family 1 subfamily A member 2",
+    "match_type": "exact",
+    "confidence_score": 100
+  },
+  "CYP3A4": {
+    "source": "PanglaoDB",
+    "cell_type": "Enterocytes",
+    "description": "cytochrome P450 family 3 subfamily A member 4",
+    "match_type": "exact",
+    "confidence_score": 100
+  },
+  "CYP3A5": {
+    "source": "CellMarker",
+    "cell_type": "Cancer cell",
+    "description": "cytochrome P450 family 3 subfamily A member 5",
+    "match_type": "exact",
+    "confidence_score": 100
+  },
+  "CYP4A11": {
+    "source": "PanglaoDB",
+    "cell_type": "Sebocytes",
+    "description": "cytochrome P450 family 24 subfamily A member 1",
+    "match_type": "fuzzy",
+    "confidence_score": 85
+  },
+  "CYP4F3": {
+    "source": "CellMarker",
+    "cell_type": "Normal cell",
+    "description": "cytochrome P450 family 4 subfamily F member 3",
+    "match_type": "exact",
+    "confidence_score": 100
+  },
+  "DBH": {
+    "source": "PanglaoDB",
+    "cell_type": "Adrenergic neurons",
+    "description": "dopamine beta-hydroxylase",
+    "match_type": "exact",
+    "confidence_score": 100
+  },
+  "DCDC2": {
+    "source": "PanglaoDB",
+    "cell_type": "Ductal cells",
+    "description": "doublecortin domain containing 2",
+    "match_type": "exact",
+    "confidence_score": 100
+  },
+  "DCX": {
+    "source": "PanglaoDB",
+    "cell_type": "Neural stem/precursor cells",
+    "description": "doublecortin",
+    "match_type": "exact",
+    "confidence_score": 100
+  },
+  "DEFB1": {
+    "source": "PanglaoDB",
+    "cell_type": "Cholangiocytes",
+    "description": "defensin beta 1",
+    "match_type": "exact",
+    "confidence_score": 100
+  },
+  "DENND6B": {
+    "source": "PanglaoDB",
+    "cell_type": "B cells memory",
+    "description": "DENN domain containing 5B",
+    "match_type": "fuzzy",
+    "confidence_score": 85
+  },
+  "DIP2C": {
+    "source": "CellMarker",
+    "cell_type": "Normal cell",
+    "description": "disco interacting protein 2 homolog C",
+    "match_type": "exact",
+    "confidence_score": 100
+  },
+  "DLG4": {
+    "source": "PanglaoDB",
+    "cell_type": "Neurons",
+    "description": "discs large MAGUK scaffold protein 4",
+    "match_type": "exact",
+    "confidence_score": 100
+  },
+  "DSEL": {
+    "source": "CellMarker",
+    "cell_type": "Normal cell",
+    "description": "dermatan sulfate epimerase like",
+    "match_type": "exact",
+    "confidence_score": 100
+  },
+  "DUOX2": {
+    "source": "PanglaoDB",
+    "cell_type": "Acinar cells",
+    "description": "dual oxidase maturation factor 2",
+    "match_type": "fuzzy",
+    "confidence_score": 90
+  },
+  "DYNC2LI1": {
+    "source": "CellMarker",
+    "cell_type": "Normal cell",
+    "description": "dynein cytoplasmic 2 light intermediate chain 1",
+    "match_type": "exact",
+    "confidence_score": 100
+  },
+  "EGFR": {
+    "source": "PanglaoDB",
+    "cell_type": "Adipocyte progenitor cells",
+    "description": "epidermal growth factor receptor",
+    "match_type": "exact",
+    "confidence_score": 100
+  },
+  "EGLN3": {
+    "source": "PanglaoDB",
+    "cell_type": "Macrophages",
+    "description": "egl-9 family hypoxia inducible factor 3",
+    "match_type": "exact",
+    "confidence_score": 100
+  },
+  "ELF3": {
+    "source": "PanglaoDB",
+    "cell_type": "Cholangiocytes",
+    "description": "E74 like ETS transcription factor 3",
+    "match_type": "exact",
+    "confidence_score": 100
+  },
+  "ELOVL7": {
+    "source": "PanglaoDB",
+    "cell_type": "Oligodendrocytes",
+    "description": "ELOVL fatty acid elongase 7",
+    "match_type": "exact",
+    "confidence_score": 100
+  },
+  "EMP3": {
+    "source": "PanglaoDB",
+    "cell_type": "Alpha cells",
+    "description": "prostaglandin E receptor 3",
+    "match_type": "fuzzy",
+    "confidence_score": 85
+  },
+  "EPB41L4A": {
+    "source": "PanglaoDB",
+    "cell_type": "Hepatocytes",
+    "description": "erythrocyte membrane protein band 4.1 like 4B",
+    "match_type": "fuzzy",
+    "confidence_score": 87
+  },
+  "EPCAM": {
+    "source": "PanglaoDB",
+    "cell_type": "Cholangiocytes",
+    "description": "epithelial cell adhesion molecule",
+    "match_type": "exact",
+    "confidence_score": 100
+  },
+  "EPN3": {
+    "source": "PanglaoDB",
+    "cell_type": "Alpha cells",
+    "description": "prostaglandin E receptor 3",
+    "match_type": "fuzzy",
+    "confidence_score": 85
+  },
+  "ERN2": {
+    "source": "CellMarker",
+    "cell_type": "Normal cell",
+    "description": "endoplasmic reticulum to nucleus signaling 2",
+    "match_type": "exact",
+    "confidence_score": 100
+  },
+  "EVC": {
+    "source": "PanglaoDB",
+    "cell_type": "Retinal ganglion cells",
+    "description": "EvC ciliary complex subunit 2",
+    "match_type": "fuzzy",
+    "confidence_score": 85
+  },
+  "F11": {
+    "source": "PanglaoDB",
+    "cell_type": "Platelets",
+    "description": "F11 receptor",
+    "match_type": "fuzzy",
+    "confidence_score": 85
+  },
+  "F2": {
+    "source": "CellMarker",
+    "cell_type": "Normal cell",
+    "description": "transcription termination factor 2",
+    "match_type": "exact",
+    "confidence_score": 100
+  },
+  "F5": {
+    "source": "PanglaoDB",
+    "cell_type": "Epithelial cells",
+    "description": "coagulation factor V",
+    "match_type": "exact",
+    "confidence_score": 100
+  },
+  "FAM107B": {
+    "source": "PanglaoDB",
+    "cell_type": "Endothelial cells",
+    "description": "family with sequence similarity 167 member B",
+    "match_type": "fuzzy",
+    "confidence_score": 85
+  },
+  "FAM149A": {
+    "source": "PanglaoDB",
+    "cell_type": "Cajal-Retzius cells",
+    "description": "family with sequence similarity 196, member A",
+    "match_type": "fuzzy",
+    "confidence_score": 85
+  },
+  "FAM171A1": {
+    "source": "CellMarker",
+    "cell_type": "Normal cell",
+    "description": "family with sequence similarity 171 member A1",
+    "match_type": "exact",
+    "confidence_score": 100
+  },
+  "FAM177B": {
+    "source": "PanglaoDB",
+    "cell_type": "Endothelial cells",
+    "description": "family with sequence similarity 167 member B",
+    "match_type": "fuzzy",
+    "confidence_score": 85
+  },
+  "FAM189A1": {
+    "source": "PanglaoDB",
+    "cell_type": "Enteric neurons",
+    "description": "family with sequence similarity 19 member A1, C-C motif chemokine like",
+    "match_type": "fuzzy",
+    "confidence_score": 93
+  },
+  "FAM83E": {
+    "source": "CellMarker",
+    "cell_type": "Normal cell",
+    "description": "family with sequence similarity 83 member E",
+    "match_type": "exact",
+    "confidence_score": 100
+  },
+  "FARP1": {
+    "source": "CellMarker",
+    "cell_type": "Normal cell",
+    "description": "FERM, ARH/RhoGEF and pleckstrin domain protein 1",
+    "match_type": "exact",
+    "confidence_score": 100
+  },
+  "FBLN1": {
+    "source": "PanglaoDB",
+    "cell_type": "Fibroblasts",
+    "description": "fibrillin 1",
+    "match_type": "fuzzy",
+    "confidence_score": 88
+  },
+  "FBXO17": {
+    "source": "PanglaoDB",
+    "cell_type": "Enteric neurons",
+    "description": "F-box protein 7",
+    "match_type": "fuzzy",
+    "confidence_score": 90
+  },
+  "FBXW4": {
+    "source": "CellMarker",
+    "cell_type": "Normal cell",
+    "description": "F-box and WD repeat domain containing 4",
+    "match_type": "exact",
+    "confidence_score": 100
+  },
+  "FCER2": {
+    "source": "PanglaoDB",
+    "cell_type": "B cells",
+    "description": "Fc fragment of IgE receptor II",
+    "match_type": "exact",
+    "confidence_score": 100
+  },
+  "FCGBP": {
+    "source": "PanglaoDB",
+    "cell_type": "Goblet cells",
+    "description": "Fc fragment of IgG binding protein",
+    "match_type": "exact",
+    "confidence_score": 100
+  },
+  "FCGR1A": {
+    "source": "PanglaoDB",
+    "cell_type": "Langerhans cells",
+    "description": "Fc fragment of IgG receptor Ia",
+    "match_type": "exact",
+    "confidence_score": 100
+  },
+  "FCGR3A": {
+    "source": "PanglaoDB",
+    "cell_type": "Dendritic cells",
+    "description": "Fc fragment of IgG receptor IIIa",
+    "match_type": "exact",
+    "confidence_score": 100
+  },
+  "FCN1": {
+    "source": "PanglaoDB",
+    "cell_type": "Monocytes",
+    "description": "ficolin 1",
+    "match_type": "exact",
+    "confidence_score": 100
+  },
+  "FCRL1": {
+    "source": "PanglaoDB",
+    "cell_type": "B cells",
+    "description": "Fc receptor like A",
+    "match_type": "fuzzy",
+    "confidence_score": 90
+  },
+  "FGA": {
+    "source": "PanglaoDB",
+    "cell_type": "Hepatocytes",
+    "description": "fibrinogen alpha chain",
+    "match_type": "exact",
+    "confidence_score": 100
+  },
+  "FGB": {
+    "source": "PanglaoDB",
+    "cell_type": "Gamma (PP) cells",
+    "description": "fibrinogen beta chain",
+    "match_type": "exact",
+    "confidence_score": 100
+  },
+  "FGFR1": {
+    "source": "PanglaoDB",
+    "cell_type": "Osteoblasts",
+    "description": "fibroblast growth factor receptor 1",
+    "match_type": "exact",
+    "confidence_score": 100
+  },
+  "FGFR2": {
+    "source": "PanglaoDB",
+    "cell_type": "Luminal epithelial cells",
+    "description": "fibroblast growth factor receptor 2",
+    "match_type": "exact",
+    "confidence_score": 100
+  },
+  "FGFR3": {
+    "source": "PanglaoDB",
+    "cell_type": "Astrocytes",
+    "description": "fibroblast growth factor receptor 3",
+    "match_type": "exact",
+    "confidence_score": 100
+  },
+  "FGFR4": {
+    "source": "PanglaoDB",
+    "cell_type": "Hepatocytes",
+    "description": "fibroblast growth factor receptor 4",
+    "match_type": "exact",
+    "confidence_score": 100
+  },
+  "FGG": {
+    "source": "PanglaoDB",
+    "cell_type": "Hepatocytes",
+    "description": "fibrinogen gamma chain",
+    "match_type": "exact",
+    "confidence_score": 100
+  },
+  "FKBP11": {
+    "source": "PanglaoDB",
+    "cell_type": "B cells",
+    "description": "FK506 binding protein 11",
+    "match_type": "exact",
+    "confidence_score": 100
+  },
+  "FLOT1": {
+    "source": "PanglaoDB",
+    "cell_type": "Endothelial cells",
+    "description": "fms related tyrosine kinase 1",
+    "match_type": "fuzzy",
+    "confidence_score": 88
+  },
+  "FOXP3": {
+    "source": "PanglaoDB",
+    "cell_type": "T helper cells",
+    "description": "forkhead box P3",
+    "match_type": "exact",
+    "confidence_score": 100
+  },
+  "FRAS1": {
+    "source": "PanglaoDB",
+    "cell_type": "Mesothelial cells",
+    "description": "Fraser extracellular matrix complex subunit 1",
+    "match_type": "exact",
+    "confidence_score": 100
+  },
+  "FRMD4A": {
+    "source": "CellMarker",
+    "cell_type": "Normal cell",
+    "description": "FERM domain containing 4A",
+    "match_type": "exact",
+    "confidence_score": 100
+  },
+  "FSTL3": {
+    "source": "PanglaoDB",
+    "cell_type": "Pulmonary alveolar type I cells",
+    "description": "follistatin like 3",
+    "match_type": "exact",
+    "confidence_score": 100
+  },
+  "FTH1": {
+    "source": "CellMarker",
+    "cell_type": "Normal cell",
+    "description": "ferritin heavy chain 1",
+    "match_type": "exact",
+    "confidence_score": 100
+  },
+  "FUT2": {
+    "source": "CellMarker",
+    "cell_type": "Normal cell",
+    "description": "fucosyltransferase 2",
+    "match_type": "exact",
+    "confidence_score": 100
+  },
+  "FXYD2": {
+    "source": "PanglaoDB",
+    "cell_type": "Beta cells",
+    "description": "FXYD domain containing ion transport regulator 2",
+    "match_type": "exact",
+    "confidence_score": 100
+  },
+  "FXYD3": {
+    "source": "PanglaoDB",
+    "cell_type": "Airway goblet cells",
+    "description": "FXYD domain containing ion transport regulator 3",
+    "match_type": "exact",
+    "confidence_score": 100
+  },
+  "G6PC": {
+    "source": "PanglaoDB",
+    "cell_type": "Hepatocytes",
+    "description": "glucose-6-phosphatase catalytic subunit",
+    "match_type": "exact",
+    "confidence_score": 100
+  },
+  "GADD45G": {
+    "source": "PanglaoDB",
+    "cell_type": "Chondrocytes",
+    "description": "growth arrest and DNA damage inducible beta",
+    "match_type": "fuzzy",
+    "confidence_score": 85
+  },
+  "GAL3ST1": {
+    "source": "CellMarker",
+    "cell_type": "Normal cell",
+    "description": "galactose-3-O-sulfotransferase 4",
+    "match_type": "fuzzy",
+    "confidence_score": 85
+  },
+  "GALNT5": {
+    "source": "PanglaoDB",
+    "cell_type": "Airway goblet cells",
+    "description": "polypeptide N-acetylgalactosaminyltransferase 5",
+    "match_type": "exact",
+    "confidence_score": 100
+  },
+  "GAP43": {
+    "source": "PanglaoDB",
+    "cell_type": "Glomus cells",
+    "description": "growth associated protein 43",
+    "match_type": "exact",
+    "confidence_score": 100
+  },
+  "GATA2": {
+    "source": "PanglaoDB",
+    "cell_type": "Basophils",
+    "description": "GATA binding protein 2",
+    "match_type": "exact",
+    "confidence_score": 100
+  },
+  "GATA3": {
+    "source": "PanglaoDB",
+    "cell_type": "Adipocyte progenitor cells",
+    "description": "GATA binding protein 3",
+    "match_type": "exact",
+    "confidence_score": 100
+  },
+  "GCGR": {
+    "source": "PanglaoDB",
+    "cell_type": "Beta cells",
+    "description": "glucagon receptor",
+    "match_type": "exact",
+    "confidence_score": 100
+  },
+  "GCNT3": {
+    "source": "CellMarker",
+    "cell_type": "Normal cell",
+    "description": "glucosaminyl (N-acetyl) transferase 3, mucin type",
+    "match_type": "exact",
+    "confidence_score": 100
+  },
+  "GDF15": {
+    "source": "PanglaoDB",
+    "cell_type": "Acinar cells",
+    "description": "growth differentiation factor 15",
+    "match_type": "exact",
+    "confidence_score": 100
+  },
+  "GEM": {
+    "source": "PanglaoDB",
+    "cell_type": "Loop of Henle cells",
+    "description": "GTP binding protein overexpressed in skeletal muscle",
+    "match_type": "exact",
+    "confidence_score": 100
+  },
+  "GFAP": {
+    "source": "PanglaoDB",
+    "cell_type": "Astrocytes",
+    "description": "glial fibrillary acidic protein",
+    "match_type": "exact",
+    "confidence_score": 100
+  },
+  "GIMAP7": {
+    "source": "CellMarker",
+    "cell_type": "Normal cell",
+    "description": "GTPase, IMAP family member 7",
+    "match_type": "exact",
+    "confidence_score": 100
+  },
+  "GJB1": {
+    "source": "PanglaoDB",
+    "cell_type": "Embryonic stem cells",
+    "description": "gap junction protein beta 1",
+    "match_type": "exact",
+    "confidence_score": 100
+  },
+  "GJB2": {
+    "source": "PanglaoDB",
+    "cell_type": "Fibroblasts",
+    "description": "gap junction protein beta 2",
+    "match_type": "exact",
+    "confidence_score": 100
+  },
+  "GLIS3": {
+    "source": "PanglaoDB",
+    "cell_type": "Chondrocytes",
+    "description": "GLI family zinc finger 3",
+    "match_type": "fuzzy",
+    "confidence_score": 88
+  },
+  "GNLY": {
+    "source": "PanglaoDB",
+    "cell_type": "Gamma delta T cells",
+    "description": "granulysin",
+    "match_type": "exact",
+    "confidence_score": 100
+  },
+  "GPRIN3": {
+    "source": "CellMarker",
+    "cell_type": "Normal cell",
+    "description": "GPRIN family member 3",
+    "match_type": "exact",
+    "confidence_score": 100
+  },
+  "GPT": {
+    "source": "PanglaoDB",
+    "cell_type": "Hepatocytes",
+    "description": "glucose-6-phosphatase catalytic subunit",
+    "match_type": "fuzzy",
+    "confidence_score": 85
+  },
+  "GPX2": {
+    "source": "PanglaoDB",
+    "cell_type": "Paneth cells",
+    "description": "glutathione peroxidase 2",
+    "match_type": "exact",
+    "confidence_score": 100
+  },
+  "GRN": {
+    "source": "PanglaoDB",
+    "cell_type": "Olfactory epithelial cells",
+    "description": "neugrin, neurite outgrowth associated",
+    "match_type": "fuzzy",
+    "confidence_score": 85
+  },
+  "GSTO1": {
+    "source": "CellMarker",
+    "cell_type": "Normal cell",
+    "description": "glutathione S-transferase omega 1",
+    "match_type": "exact",
+    "confidence_score": 100
+  },
+  "GZMA": {
+    "source": "PanglaoDB",
+    "cell_type": "Gamma delta T cells",
+    "description": "granzyme A",
+    "match_type": "exact",
+    "confidence_score": 100
+  },
+  "GZMK": {
+    "source": "PanglaoDB",
+    "cell_type": "NK cells",
+    "description": "granzyme K",
+    "match_type": "exact",
+    "confidence_score": 100
+  },
+  "HAMP": {
+    "source": "PanglaoDB",
+    "cell_type": "Beta cells",
+    "description": "hepcidin antimicrobial peptide",
+    "match_type": "exact",
+    "confidence_score": 100
+  },
+  "HAPLN1": {
+    "source": "PanglaoDB",
+    "cell_type": "Chondrocytes",
+    "description": "hyaluronan and proteoglycan link protein 1",
+    "match_type": "exact",
+    "confidence_score": 100
+  },
+  "HES1": {
+    "source": "PanglaoDB",
+    "cell_type": "Embryonic stem cells",
+    "description": "hes family bHLH transcription factor 1",
+    "match_type": "exact",
+    "confidence_score": 100
+  },
+  "HIST1H1D": {
+    "source": "PanglaoDB",
+    "cell_type": "Basophils",
+    "description": "histone cluster 1 H1 family member d",
+    "match_type": "exact",
+    "confidence_score": 100
+  },
+  "HK2": {
+    "source": "PanglaoDB",
+    "cell_type": "Pluripotent stem cells",
+    "description": "hexokinase 2",
+    "match_type": "exact",
+    "confidence_score": 100
+  },
+  "HMGCS2": {
+    "source": "PanglaoDB",
+    "cell_type": "Epsilon cells",
+    "description": "3-hydroxy-3-methylglutaryl-CoA synthase 2",
+    "match_type": "exact",
+    "confidence_score": 100
+  },
+  "HMOX1": {
+    "source": "PanglaoDB",
+    "cell_type": "Enterocytes",
+    "description": "heme oxygenase 1",
+    "match_type": "exact",
+    "confidence_score": 100
+  },
+  "HNF1B": {
+    "source": "PanglaoDB",
+    "cell_type": "Cholangiocytes",
+    "description": "HNF1 homeobox B",
+    "match_type": "exact",
+    "confidence_score": 100
+  },
+  "HNF4A": {
+    "source": "PanglaoDB",
+    "cell_type": "Enterocytes",
+    "description": "hepatocyte nuclear factor 4 alpha",
+    "match_type": "exact",
+    "confidence_score": 100
+  },
+  "HNMT": {
+    "source": "PanglaoDB",
+    "cell_type": "Mast cells",
+    "description": "histamine N-methyltransferase",
+    "match_type": "exact",
+    "confidence_score": 100
+  },
+  "HOMER2": {
+    "source": "PanglaoDB",
+    "cell_type": "Cajal-Retzius cells",
+    "description": "homer scaffold protein 2",
+    "match_type": "exact",
+    "confidence_score": 100
+  },
+  "HPGD": {
+    "source": "PanglaoDB",
+    "cell_type": "Macrophages",
+    "description": "15-hydroxyprostaglandin dehydrogenase",
+    "match_type": "exact",
+    "confidence_score": 100
+  },
+  "HSP90B1": {
+    "source": "CellMarker",
+    "cell_type": "Normal cell",
+    "description": "heat shock protein 90 beta family member 1",
+    "match_type": "exact",
+    "confidence_score": 100
+  },
+  "HTRA1": {
+    "source": "PanglaoDB",
+    "cell_type": "Astrocytes",
+    "description": "HtrA serine peptidase 1",
+    "match_type": "exact",
+    "confidence_score": 100
+  },
+  "HUNK": {
+    "source": "CellMarker",
+    "cell_type": "Normal cell",
+    "description": "hormonally up-regulated Neu-associated kinase",
+    "match_type": "exact",
+    "confidence_score": 100
+  },
+  "ICOS": {
+    "source": "PanglaoDB",
+    "cell_type": "Nuocytes",
+    "description": "inducible T cell costimulator",
+    "match_type": "exact",
+    "confidence_score": 100
+  },
+  "ID2": {
+    "source": "PanglaoDB",
+    "cell_type": "Merkel cells",
+    "description": "inhibitor of DNA binding 2",
+    "match_type": "exact",
+    "confidence_score": 100
+  },
+  "IER5": {
+    "source": "CellMarker",
+    "cell_type": "Normal cell",
+    "description": "immediate early response 5",
+    "match_type": "exact",
+    "confidence_score": 100
+  },
+  "IFI27": {
+    "source": "PanglaoDB",
+    "cell_type": "Endothelial cells",
+    "description": "interferon alpha inducible protein 27",
+    "match_type": "exact",
+    "confidence_score": 100
+  },
+  "IGFBP5": {
+    "source": "PanglaoDB",
+    "cell_type": "Leydig cells",
+    "description": "insulin like growth factor binding protein 5",
+    "match_type": "exact",
+    "confidence_score": 100
+  },
+  "IL1B": {
+    "source": "PanglaoDB",
+    "cell_type": "Alveolar macrophages",
+    "description": "interleukin 1 beta",
+    "match_type": "exact",
+    "confidence_score": 100
+  },
+  "IL1RN": {
+    "source": "PanglaoDB",
+    "cell_type": "Monocytes",
+    "description": "interleukin 1 receptor antagonist",
+    "match_type": "exact",
+    "confidence_score": 100
+  },
+  "IL22": {
+    "source": "PanglaoDB",
+    "cell_type": "T helper cells",
+    "description": "interleukin 22",
+    "match_type": "exact",
+    "confidence_score": 100
+  },
+  "IL4I1": {
+    "source": "CellMarker",
+    "cell_type": "Normal cell",
+    "description": "interleukin 4 induced 1",
+    "match_type": "exact",
+    "confidence_score": 100
+  },
+  "IL7R": {
+    "source": "PanglaoDB",
+    "cell_type": "Nuocytes",
+    "description": "interleukin 7 receptor",
+    "match_type": "exact",
+    "confidence_score": 100
+  },
+  "IRF8": {
+    "source": "PanglaoDB",
+    "cell_type": "B cells memory",
+    "description": "interferon regulatory factor 8",
+    "match_type": "exact",
+    "confidence_score": 100
+  },
+  "ITGA6": {
+    "source": "PanglaoDB",
+    "cell_type": "Embryonic stem cells",
+    "description": "integrin subunit alpha 6",
+    "match_type": "exact",
+    "confidence_score": 100
+  },
+  "ITGB1": {
+    "source": "PanglaoDB",
+    "cell_type": "Bergmann glia",
+    "description": "integrin subunit beta 1",
+    "match_type": "exact",
+    "confidence_score": 100
+  },
+  "ITGB6": {
+    "source": "PanglaoDB",
+    "cell_type": "Basal cells",
+    "description": "integrin subunit beta 6",
+    "match_type": "exact",
+    "confidence_score": 100
+  },
+  "ITGB8": {
+    "source": "PanglaoDB",
+    "cell_type": "T regulatory cells",
+    "description": "integrin subunit beta 8",
+    "match_type": "exact",
+    "confidence_score": 100
+  },
+  "ITK": {
+    "source": "PanglaoDB",
+    "cell_type": "T cells",
+    "description": "IL2 inducible T cell kinase",
+    "match_type": "exact",
+    "confidence_score": 100
+  },
+  "JAG1": {
+    "source": "PanglaoDB",
+    "cell_type": "Cholangiocytes",
+    "description": "jagged 1",
+    "match_type": "exact",
+    "confidence_score": 100
+  },
+  "JPT1": {
+    "source": "PanglaoDB",
+    "cell_type": "Gamma delta T cells",
+    "description": "T cell receptor gamma joining P1",
+    "match_type": "fuzzy",
+    "confidence_score": 85
+  },
+  "KCNJ11": {
+    "source": "PanglaoDB",
+    "cell_type": "Glomus cells",
+    "description": "potassium voltage-gated channel subfamily J member 11",
+    "match_type": "exact",
+    "confidence_score": 100
+  },
+  "KCNJ16": {
+    "source": "PanglaoDB",
+    "cell_type": "Distal tubule cells",
+    "description": "potassium voltage-gated channel subfamily J member 16",
+    "match_type": "exact",
+    "confidence_score": 100
+  },
+  "KCNN4": {
+    "source": "PanglaoDB",
+    "cell_type": "Erythroid-like and erythroid precursor cells",
+    "description": "potassium calcium-activated channel subfamily N member 4",
+    "match_type": "exact",
+    "confidence_score": 100
+  },
+  "KIAA0753": {
+    "source": "PanglaoDB",
+    "cell_type": "Astrocytes",
+    "description": "synemin",
+    "match_type": "fuzzy",
+    "confidence_score": 87
+  },
+  "KIF12": {
+    "source": "CellMarker",
+    "cell_type": "Normal cell",
+    "description": "kinesin family member 12",
+    "match_type": "exact",
+    "confidence_score": 100
+  },
+  "KIF26B": {
+    "source": "PanglaoDB",
+    "cell_type": "Germ cells",
+    "description": "kinesin family member 2B",
+    "match_type": "fuzzy",
+    "confidence_score": 90
+  },
+  "KIT": {
+    "source": "PanglaoDB",
+    "cell_type": "Cardiac stem and precursor cells",
+    "description": "KIT proto-oncogene receptor tyrosine kinase",
+    "match_type": "exact",
+    "confidence_score": 100
+  },
+  "KLHDC7A": {
+    "source": "PanglaoDB",
+    "cell_type": "Retinal ganglion cells",
+    "description": "kelch domain containing 8A",
+    "match_type": "fuzzy",
+    "confidence_score": 85
+  },
+  "KLRD1": {
+    "source": "PanglaoDB",
+    "cell_type": "Gamma delta T cells",
+    "description": "killer cell lectin like receptor D1",
+    "match_type": "exact",
+    "confidence_score": 100
+  },
+  "KRAS": {
+    "source": "CellMarker",
+    "cell_type": "Cancer cell",
+    "description": "NRAS proto-oncogene, GTPase",
+    "match_type": "exact",
+    "confidence_score": 100
+  },
+  "KRT17": {
+    "source": "PanglaoDB",
+    "cell_type": "Basal cells",
+    "description": "keratin 17",
+    "match_type": "exact",
+    "confidence_score": 100
+  },
+  "KRT19": {
+    "source": "PanglaoDB",
+    "cell_type": "Cholangiocytes",
+    "description": "keratin 19",
+    "match_type": "exact",
+    "confidence_score": 100
+  },
+  "KRT7": {
+    "source": "PanglaoDB",
+    "cell_type": "Cholangiocytes",
+    "description": "keratin 7",
+    "match_type": "exact",
+    "confidence_score": 100
+  },
+  "LAD1": {
+    "source": "PanglaoDB",
+    "cell_type": "Oligodendrocyte progenitor cells",
+    "description": "ladinin 1",
+    "match_type": "exact",
+    "confidence_score": 100
+  },
+  "LAG3": {
+    "source": "PanglaoDB",
+    "cell_type": "Microglia",
+    "description": "lymphocyte activating 3",
+    "match_type": "exact",
+    "confidence_score": 100
+  },
+  "LCN2": {
+    "source": "PanglaoDB",
+    "cell_type": "Astrocytes",
+    "description": "lipocalin 2",
+    "match_type": "exact",
+    "confidence_score": 100
+  },
+  "LEF1": {
+    "source": "PanglaoDB",
+    "cell_type": "Embryonic stem cells",
+    "description": "lymphoid enhancer binding factor 1",
+    "match_type": "exact",
+    "confidence_score": 100
+  },
+  "LEPROTL1": {
+    "source": "CellMarker",
+    "cell_type": "Normal cell",
+    "description": "leptin receptor overlapping transcript like 1",
+    "match_type": "exact",
+    "confidence_score": 100
+  },
+  "LFNG": {
+    "source": "CellMarker",
+    "cell_type": "Cancer cell",
+    "description": "LFNG O-fucosylpeptide 3-beta-N-acetylglucosaminyltransferase",
+    "match_type": "exact",
+    "confidence_score": 100
+  },
+  "LGALS1": {
+    "source": "PanglaoDB",
+    "cell_type": "Adipocytes",
+    "description": "galectin 12",
+    "match_type": "fuzzy",
+    "confidence_score": 92
+  },
+  "LGALS3": {
+    "source": "PanglaoDB",
+    "cell_type": "Dendritic cells",
+    "description": "galectin 3",
+    "match_type": "exact",
+    "confidence_score": 100
+  },
+  "LGALS3BP": {
+    "source": "PanglaoDB",
+    "cell_type": "Bergmann glia",
+    "description": "BTB domain containing 17",
+    "match_type": "fuzzy",
+    "confidence_score": 94
+  },
+  "LGALS8": {
+    "source": "PanglaoDB",
+    "cell_type": "Platelets",
+    "description": "galectin 8",
+    "match_type": "exact",
+    "confidence_score": 100
+  },
+  "LIN7A": {
+    "source": "PanglaoDB",
+    "cell_type": "Photoreceptor cells",
+    "description": "lin-7 homolog A, crumbs cell polarity complex component",
+    "match_type": "exact",
+    "confidence_score": 100
+  },
+  "LIPC": {
+    "source": "PanglaoDB",
+    "cell_type": "Hepatocytes",
+    "description": "lipase C, hepatic type",
+    "match_type": "exact",
+    "confidence_score": 100
+  },
+  "LOXL4": {
+    "source": "PanglaoDB",
+    "cell_type": "Alpha cells",
+    "description": "lysyl oxidase like 4",
+    "match_type": "exact",
+    "confidence_score": 100
+  },
+  "LUM": {
+    "source": "PanglaoDB",
+    "cell_type": "Chondrocytes",
+    "description": "lumican",
+    "match_type": "exact",
+    "confidence_score": 100
+  },
+  "LY6E": {
+    "source": "PanglaoDB",
+    "cell_type": "Monocytes",
+    "description": "lymphocyte antigen 6 family member E",
+    "match_type": "exact",
+    "confidence_score": 100
+  },
+  "LY75": {
+    "source": "PanglaoDB",
+    "cell_type": "Dendritic cells",
+    "description": "lymphocyte antigen 75",
+    "match_type": "exact",
+    "confidence_score": 100
+  },
+  "LYVE1": {
+    "source": "PanglaoDB",
+    "cell_type": "Endothelial cells",
+    "description": "lymphatic vessel endothelial hyaluronan receptor 1",
+    "match_type": "exact",
+    "confidence_score": 100
+  },
+  "MAOB": {
+    "source": "PanglaoDB",
+    "cell_type": "Adipocytes",
+    "description": "monoamine oxidase B",
+    "match_type": "exact",
+    "confidence_score": 100
+  },
+  "MAP2": {
+    "source": "PanglaoDB",
+    "cell_type": "Pyramidal cells",
+    "description": "microtubule associated protein 2",
+    "match_type": "exact",
+    "confidence_score": 100
+  },
+  "MAT1A": {
+    "source": "CellMarker",
+    "cell_type": "Normal cell",
+    "description": "methionine adenosyltransferase 1A",
+    "match_type": "exact",
+    "confidence_score": 100
+  },
+  "MCM2": {
+    "source": "CellMarker",
+    "cell_type": "Normal cell",
+    "description": "minichromosome maintenance complex component 7",
+    "match_type": "exact",
+    "confidence_score": 100
+  },
+  "MFAP4": {
+    "source": "CellMarker",
+    "cell_type": "Cancer cell",
+    "description": "microfibril associated protein 4",
+    "match_type": "exact",
+    "confidence_score": 100
+  },
+  "MFAP5": {
+    "source": "PanglaoDB",
+    "cell_type": "Fibroblasts",
+    "description": "microfibril associated protein 5",
+    "match_type": "exact",
+    "confidence_score": 100
+  },
+  "MFSD2A": {
+    "source": "PanglaoDB",
+    "cell_type": "Endothelial cells",
+    "description": "major facilitator superfamily domain containing 2A",
+    "match_type": "exact",
+    "confidence_score": 100
+  },
+  "MGP": {
+    "source": "PanglaoDB",
+    "cell_type": "Chondrocytes",
+    "description": "matrix Gla protein",
+    "match_type": "exact",
+    "confidence_score": 100
+  },
+  "MKI67": {
+    "source": "PanglaoDB",
+    "cell_type": "Gamma delta T cells",
+    "description": "marker of proliferation Ki-67",
+    "match_type": "exact",
+    "confidence_score": 100
+  },
+  "MLPH": {
+    "source": "PanglaoDB",
+    "cell_type": "Mast cells",
+    "description": "melanophilin",
+    "match_type": "exact",
+    "confidence_score": 100
+  },
+  "MMP15": {
+    "source": "PanglaoDB",
+    "cell_type": "Stromal cells",
+    "description": "matrix metallopeptidase 1",
+    "match_type": "fuzzy",
+    "confidence_score": 88
+  },
+  "MMP2": {
+    "source": "PanglaoDB",
+    "cell_type": "Adipocytes",
+    "description": "matrix metallopeptidase 2",
+    "match_type": "exact",
+    "confidence_score": 100
+  },
+  "MMP3": {
+    "source": "PanglaoDB",
+    "cell_type": "Adipocyte progenitor cells",
+    "description": "matrix metallopeptidase 3",
+    "match_type": "exact",
+    "confidence_score": 100
+  },
+  "MRS2": {
+    "source": "PanglaoDB",
+    "cell_type": "Macrophages",
+    "description": "ADAM metallopeptidase domain 8",
+    "match_type": "fuzzy",
+    "confidence_score": 85
+  },
+  "MS4A1": {
+    "source": "PanglaoDB",
+    "cell_type": "B cells",
+    "description": "membrane spanning 4-domains A1",
+    "match_type": "exact",
+    "confidence_score": 100
+  },
+  "MS4A2": {
+    "source": "PanglaoDB",
+    "cell_type": "B cells",
+    "description": "membrane spanning 4-domains A1",
+    "match_type": "exact",
+    "confidence_score": 100
+  },
+  "MS4A7": {
+    "source": "PanglaoDB",
+    "cell_type": "Macrophages",
+    "description": "membrane spanning 4-domains A4A",
+    "match_type": "exact",
+    "confidence_score": 100
+  },
+  "MS4A8": {
+    "source": "PanglaoDB",
+    "cell_type": "Delta cells",
+    "description": "membrane spanning 4-domains A8",
+    "match_type": "exact",
+    "confidence_score": 100
+  },
+  "MSLN": {
+    "source": "PanglaoDB",
+    "cell_type": "Airway goblet cells",
+    "description": "mesothelin",
+    "match_type": "exact",
+    "confidence_score": 100
+  },
+  "MUC1": {
+    "source": "PanglaoDB",
+    "cell_type": "Acinar cells",
+    "description": "mucin 1, cell surface associated",
+    "match_type": "exact",
+    "confidence_score": 100
+  },
+  "MUC13": {
+    "source": "PanglaoDB",
+    "cell_type": "Enterocytes",
+    "description": "mucin 13, cell surface associated",
+    "match_type": "exact",
+    "confidence_score": 100
+  },
+  "MUC20": {
+    "source": "PanglaoDB",
+    "cell_type": "Airway goblet cells",
+    "description": "mucin 20, cell surface associated",
+    "match_type": "exact",
+    "confidence_score": 100
+  },
+  "MUC3A": {
+    "source": "CellMarker",
+    "cell_type": "Normal cell",
+    "description": "mucin 3B, cell surface associated",
+    "match_type": "exact",
+    "confidence_score": 100
+  },
+  "MYB": {
+    "source": "PanglaoDB",
+    "cell_type": "Ependymal cells",
+    "description": "MYB proto-oncogene, transcription factor",
+    "match_type": "exact",
+    "confidence_score": 100
+  },
+  "MYL6": {
+    "source": "PanglaoDB",
+    "cell_type": "Embryonic stem cells",
+    "description": "promyelocytic leukemia",
+    "match_type": "fuzzy",
+    "confidence_score": 85
+  },
+  "MYOM1": {
+    "source": "PanglaoDB",
+    "cell_type": "Cardiomyocytes",
+    "description": "myomesin 1",
+    "match_type": "exact",
+    "confidence_score": 100
+  },
+  "MYRF": {
+    "source": "PanglaoDB",
+    "cell_type": "Oligodendrocytes",
+    "description": "myelin regulatory factor",
+    "match_type": "exact",
+    "confidence_score": 100
+  },
+  "NBL1": {
+    "source": "PanglaoDB",
+    "cell_type": "Neutrophils",
+    "description": "CD177 molecule",
+    "match_type": "fuzzy",
+    "confidence_score": 85
+  },
+  "NCAM1": {
+    "source": "PanglaoDB",
+    "cell_type": "Natural killer T cells",
+    "description": "neural cell adhesion molecule 1",
+    "match_type": "exact",
+    "confidence_score": 100
+  },
+  "NEO1": {
+    "source": "PanglaoDB",
+    "cell_type": "Hematopoietic stem cells",
+    "description": "neogenin 1",
+    "match_type": "exact",
+    "confidence_score": 100
+  },
+  "NEUROD1": {
+    "source": "PanglaoDB",
+    "cell_type": "Alpha cells",
+    "description": "neuronal differentiation 1",
+    "match_type": "exact",
+    "confidence_score": 100
+  },
+  "NGFR": {
+    "source": "PanglaoDB",
+    "cell_type": "Hepatic stellate cells",
+    "description": "nerve growth factor receptor",
+    "match_type": "exact",
+    "confidence_score": 100
+  },
+  "NKG7": {
+    "source": "PanglaoDB",
+    "cell_type": "Gamma delta T cells",
+    "description": "natural killer cell granule protein 7",
+    "match_type": "exact",
+    "confidence_score": 100
+  },
+  "NOVA1": {
+    "source": "CellMarker",
+    "cell_type": "Normal cell",
+    "description": "NOVA alternative splicing regulator 1",
+    "match_type": "exact",
+    "confidence_score": 100
+  },
+  "NUAK2": {
+    "source": "CellMarker",
+    "cell_type": "Normal cell",
+    "description": "NUAK family kinase 2",
+    "match_type": "exact",
+    "confidence_score": 100
+  },
+  "ODF2L": {
+    "source": "PanglaoDB",
+    "cell_type": "Germ cells",
+    "description": "outer dense fiber of sperm tails 2",
+    "match_type": "fuzzy",
+    "confidence_score": 88
+  },
+  "OGDHL": {
+    "source": "PanglaoDB",
+    "cell_type": "Transient cells",
+    "description": "oxoglutarate dehydrogenase",
+    "match_type": "fuzzy",
+    "confidence_score": 88
+  },
+  "OLIG2": {
+    "source": "PanglaoDB",
+    "cell_type": "Oligodendrocyte progenitor cells",
+    "description": "oligodendrocyte transcription factor 2",
+    "match_type": "exact",
+    "confidence_score": 100
+  },
+  "ONECUT1": {
+    "source": "PanglaoDB",
+    "cell_type": "Ductal cells",
+    "description": "one cut homeobox 1",
+    "match_type": "exact",
+    "confidence_score": 100
+  },
+  "P2RY12": {
+    "source": "PanglaoDB",
+    "cell_type": "Microglia",
+    "description": "purinergic receptor P2Y12",
+    "match_type": "exact",
+    "confidence_score": 100
+  },
+  "PAQR5": {
+    "source": "PanglaoDB",
+    "cell_type": "Epithelial cells",
+    "description": "progestin and adipoQ receptor family member 5",
+    "match_type": "exact",
+    "confidence_score": 100
+  },
+  "PARK7": {
+    "source": "CellMarker",
+    "cell_type": "Normal cell",
+    "description": "Parkinsonism associated deglycase",
+    "match_type": "exact",
+    "confidence_score": 100
+  },
+  "PAX5": {
+    "source": "PanglaoDB",
+    "cell_type": "B cells",
+    "description": "paired box 5",
+    "match_type": "exact",
+    "confidence_score": 100
+  },
+  "PCK1": {
+    "source": "PanglaoDB",
+    "cell_type": "Adipocytes",
+    "description": "phosphoenolpyruvate carboxykinase 1",
+    "match_type": "exact",
+    "confidence_score": 100
+  },
+  "PDGFD": {
+    "source": "PanglaoDB",
+    "cell_type": "Radial glia cells",
+    "description": "platelet derived growth factor D",
+    "match_type": "exact",
+    "confidence_score": 100
+  },
+  "PDGFRA": {
+    "source": "PanglaoDB",
+    "cell_type": "Fibroblasts",
+    "description": "platelet derived growth factor receptor alpha",
+    "match_type": "exact",
+    "confidence_score": 100
+  },
+  "PINK1": {
+    "source": "PanglaoDB",
+    "cell_type": "Acinar cells",
+    "description": "serine peptidase inhibitor, Kazal type 1",
+    "match_type": "fuzzy",
+    "confidence_score": 90
+  },
+  "PKHD1": {
+    "source": "PanglaoDB",
+    "cell_type": "Proximal tubule cells",
+    "description": "PKHD1, fibrocystin/polyductin",
+    "match_type": "exact",
+    "confidence_score": 100
+  },
+  "PLA2G10": {
+    "source": "PanglaoDB",
+    "cell_type": "Goblet cells",
+    "description": "phospholipase A2 group X",
+    "match_type": "exact",
+    "confidence_score": 100
+  },
+  "PLAAT5": {
+    "source": "CellMarker",
+    "cell_type": "Normal cell",
+    "description": "phospholipase A and acyltransferase 5",
+    "match_type": "exact",
+    "confidence_score": 100
+  },
+  "PLAC8": {
+    "source": "PanglaoDB",
+    "cell_type": "Dendritic cells",
+    "description": "placenta specific 8",
+    "match_type": "exact",
+    "confidence_score": 100
+  },
+  "PLAC9": {
+    "source": "CellMarker",
+    "cell_type": "Normal cell",
+    "description": "placenta associated 9",
+    "match_type": "exact",
+    "confidence_score": 100
+  },
+  "PLAUR": {
+    "source": "PanglaoDB",
+    "cell_type": "Leydig cells",
+    "description": "plasminogen activator, urokinase receptor",
+    "match_type": "exact",
+    "confidence_score": 100
+  },
+  "PLEK2": {
+    "source": "PanglaoDB",
+    "cell_type": "Mast cells",
+    "description": "pleckstrin",
+    "match_type": "fuzzy",
+    "confidence_score": 88
+  },
+  "PLK1": {
+    "source": "CellMarker",
+    "cell_type": "Cancer cell",
+    "description": "polo like kinase 1",
+    "match_type": "exact",
+    "confidence_score": 100
+  },
+  "PMEPA1": {
+    "source": "PanglaoDB",
+    "cell_type": "Enterocytes",
+    "description": "prostate transmembrane protein, androgen induced 1",
+    "match_type": "exact",
+    "confidence_score": 100
+  },
+  "PON1": {
+    "source": "CellMarker",
+    "cell_type": "Normal cell",
+    "description": "paraoxonase 1",
+    "match_type": "exact",
+    "confidence_score": 100
+  },
+  "POSTN": {
+    "source": "PanglaoDB",
+    "cell_type": "Adipocytes",
+    "description": "periostin",
+    "match_type": "exact",
+    "confidence_score": 100
+  },
+  "PPARG": {
+    "source": "PanglaoDB",
+    "cell_type": "Adipocyte progenitor cells",
+    "description": "peroxisome proliferator activated receptor gamma",
+    "match_type": "exact",
+    "confidence_score": 100
+  },
+  "PREP": {
+    "source": "CellMarker",
+    "cell_type": "Normal cell",
+    "description": "prolyl endopeptidase",
+    "match_type": "exact",
+    "confidence_score": 100
+  },
+  "PRODH2": {
+    "source": "CellMarker",
+    "cell_type": "Normal cell",
+    "description": "proline dehydrogenase 1",
+    "match_type": "exact",
+    "confidence_score": 100
+  },
+  "PROM1": {
+    "source": "PanglaoDB",
+    "cell_type": "Crypt cells",
+    "description": "prominin 1",
+    "match_type": "exact",
+    "confidence_score": 100
+  },
+  "PRR15L": {
+    "source": "PanglaoDB",
+    "cell_type": "Enterocytes",
+    "description": "proline rich 15 like",
+    "match_type": "exact",
+    "confidence_score": 100
+  },
+  "PRTG": {
+    "source": "CellMarker",
+    "cell_type": "Normal cell",
+    "description": "protogenin",
+    "match_type": "exact",
+    "confidence_score": 100
+  },
+  "PSAP": {
+    "source": "PanglaoDB",
+    "cell_type": "Monocytes",
+    "description": "prosaposin",
+    "match_type": "exact",
+    "confidence_score": 100
+  },
+  "PSORS1C1": {
+    "source": "PanglaoDB",
+    "cell_type": "Dendritic cells",
+    "description": "major histocompatibility complex, class I, C",
+    "match_type": "fuzzy",
+    "confidence_score": 85
+  },
+  "PTGDS": {
+    "source": "PanglaoDB",
+    "cell_type": "Endothelial cells",
+    "description": "prostaglandin D2 synthase",
+    "match_type": "exact",
+    "confidence_score": 100
+  },
+  "PTGER4": {
+    "source": "PanglaoDB",
+    "cell_type": "Epsilon cells",
+    "description": "prostaglandin E receptor 4",
+    "match_type": "exact",
+    "confidence_score": 100
+  },
+  "QPCT": {
+    "source": "PanglaoDB",
+    "cell_type": "Photoreceptor cells",
+    "description": "glutaminyl-peptide cyclotransferase",
+    "match_type": "exact",
+    "confidence_score": 100
+  },
+  "RAMP1": {
+    "source": "PanglaoDB",
+    "cell_type": "Dendritic cells",
+    "description": "solute carrier family 11 member 1",
+    "match_type": "fuzzy",
+    "confidence_score": 90
+  },
+  "RAP1GAP": {
+    "source": "CellMarker",
+    "cell_type": "Normal cell",
+    "description": "RAP1 GTPase activating protein",
+    "match_type": "exact",
+    "confidence_score": 100
+  },
+  "RARRES1": {
+    "source": "PanglaoDB",
+    "cell_type": "Basal cells",
+    "description": "retinoic acid receptor responder 1",
+    "match_type": "exact",
+    "confidence_score": 100
+  },
+  "RBFOX3": {
+    "source": "PanglaoDB",
+    "cell_type": "Immature neurons",
+    "description": "RNA binding fox-1 homolog 3",
+    "match_type": "exact",
+    "confidence_score": 100
+  },
+  "RBPMS": {
+    "source": "PanglaoDB",
+    "cell_type": "Retinal ganglion cells",
+    "description": "RNA binding protein, mRNA processing factor",
+    "match_type": "exact",
+    "confidence_score": 100
+  },
+  "RERG": {
+    "source": "PanglaoDB",
+    "cell_type": "Acinar cells",
+    "description": "regenerating family member 1 alpha",
+    "match_type": "fuzzy",
+    "confidence_score": 85
+  },
+  "RGS4": {
+    "source": "PanglaoDB",
+    "cell_type": "Alpha cells",
+    "description": "regulator of G protein signaling 4",
+    "match_type": "exact",
+    "confidence_score": 100
+  },
+  "RIC8B": {
+    "source": "PanglaoDB",
+    "cell_type": "Olfactory epithelial cells",
+    "description": "RIC8 guanine nucleotide exchange factor B",
+    "match_type": "exact",
+    "confidence_score": 100
+  },
+  "RNF19A": {
+    "source": "CellMarker",
+    "cell_type": "Normal cell",
+    "description": "ring finger protein 19A, RBR E3 ubiquitin protein ligase",
+    "match_type": "exact",
+    "confidence_score": 100
+  },
+  "RORA": {
+    "source": "PanglaoDB",
+    "cell_type": "Interneurons",
+    "description": "RAR related orphan receptor A",
+    "match_type": "exact",
+    "confidence_score": 100
+  },
+  "RORC": {
+    "source": "PanglaoDB",
+    "cell_type": "T helper cells",
+    "description": "RAR related orphan receptor C",
+    "match_type": "exact",
+    "confidence_score": 100
+  },
+  "RTKN2": {
+    "source": "PanglaoDB",
+    "cell_type": "Pulmonary alveolar type I cells",
+    "description": "rhotekin 2",
+    "match_type": "exact",
+    "confidence_score": 100
+  },
+  "S100A10": {
+    "source": "PanglaoDB",
+    "cell_type": "Ductal cells",
+    "description": "S100 calcium binding protein A10",
+    "match_type": "exact",
+    "confidence_score": 100
+  },
+  "S100A13": {
+    "source": "PanglaoDB",
+    "cell_type": "Endothelial cells",
+    "description": "S100 calcium binding protein A13",
+    "match_type": "exact",
+    "confidence_score": 100
+  },
+  "S100A4": {
+    "source": "PanglaoDB",
+    "cell_type": "Alveolar macrophages",
+    "description": "S100 calcium binding protein A4",
+    "match_type": "exact",
+    "confidence_score": 100
+  },
+  "S100P": {
+    "source": "PanglaoDB",
+    "cell_type": "Trophoblast cells",
+    "description": "S100 calcium binding protein P",
+    "match_type": "exact",
+    "confidence_score": 100
+  },
+  "SCN10A": {
+    "source": "PanglaoDB",
+    "cell_type": "Trigeminal neurons",
+    "description": "sodium voltage-gated channel alpha subunit 10",
+    "match_type": "exact",
+    "confidence_score": 100
+  },
+  "SDCBP2": {
+    "source": "CellMarker",
+    "cell_type": "Normal cell",
+    "description": "syndecan binding protein",
+    "match_type": "fuzzy",
+    "confidence_score": 90
+  },
+  "SDR16C5": {
+    "source": "PanglaoDB",
+    "cell_type": "Enteric glia cells",
+    "description": "dehydrogenase/reductase 3",
+    "match_type": "fuzzy",
+    "confidence_score": 85
+  },
+  "SELL": {
+    "source": "PanglaoDB",
+    "cell_type": "B cells naive",
+    "description": "selectin L",
+    "match_type": "exact",
+    "confidence_score": 100
+  },
+  "SEMA4G": {
+    "source": "PanglaoDB",
+    "cell_type": "Sertoli cells",
+    "description": "semaphorin 5B",
+    "match_type": "fuzzy",
+    "confidence_score": 90
+  },
+  "SEMA6A": {
+    "source": "PanglaoDB",
+    "cell_type": "Peri-islet Schwann cells",
+    "description": "semaphorin 3B",
+    "match_type": "fuzzy",
+    "confidence_score": 90
+  },
+  "SERPINA11": {
+    "source": "PanglaoDB",
+    "cell_type": "Dendritic cells",
+    "description": "serpin family A member 1",
+    "match_type": "fuzzy",
+    "confidence_score": 94
+  },
+  "SERPINA6": {
+    "source": "PanglaoDB",
+    "cell_type": "Hepatocytes",
+    "description": "serpin family A member 6",
+    "match_type": "exact",
+    "confidence_score": 100
+  },
+  "SERPINC1": {
+    "source": "PanglaoDB",
+    "cell_type": "Adipocytes",
+    "description": "serpin family F member 1",
+    "match_type": "fuzzy",
+    "confidence_score": 87
+  },
+  "SFRP2": {
+    "source": "PanglaoDB",
+    "cell_type": "Mesangial cells",
+    "description": "secreted frizzled related protein 2",
+    "match_type": "exact",
+    "confidence_score": 100
+  },
+  "SFXN1": {
+    "source": "CellMarker",
+    "cell_type": "Normal cell",
+    "description": "sideroflexin 1",
+    "match_type": "exact",
+    "confidence_score": 100
+  },
+  "SH3YL1": {
+    "source": "CellMarker",
+    "cell_type": "Normal cell",
+    "description": "SH3 and SYLF domain containing 1",
+    "match_type": "exact",
+    "confidence_score": 100
+  },
+  "SHANK2": {
+    "source": "PanglaoDB",
+    "cell_type": "Purkinje neurons",
+    "description": "SH3 and multiple ankyrin repeat domains 2",
+    "match_type": "exact",
+    "confidence_score": 100
+  },
+  "SLC12A2": {
+    "source": "PanglaoDB",
+    "cell_type": "Chromaffin cells",
+    "description": "solute carrier family 12 member 2",
+    "match_type": "exact",
+    "confidence_score": 100
+  },
+  "SLC16A1": {
+    "source": "PanglaoDB",
+    "cell_type": "Interneurons",
+    "description": "solute carrier family 16 member 1",
+    "match_type": "exact",
+    "confidence_score": 100
+  },
+  "SLC17A4": {
+    "source": "PanglaoDB",
+    "cell_type": "Cajal-Retzius cells",
+    "description": "solute carrier family 17 member 6",
+    "match_type": "fuzzy",
+    "confidence_score": 85
+  },
+  "SLC18A3": {
+    "source": "PanglaoDB",
+    "cell_type": "Cholinergic neurons",
+    "description": "solute carrier family 18 member A3",
+    "match_type": "exact",
+    "confidence_score": 100
+  },
+  "SLC2A1": {
+    "source": "PanglaoDB",
+    "cell_type": "Endothelial cells",
+    "description": "solute carrier family 2 member 1",
+    "match_type": "exact",
+    "confidence_score": 100
+  },
+  "SLC44A3": {
+    "source": "PanglaoDB",
+    "cell_type": "Distal tubule cells",
+    "description": "Rh family C glycoprotein",
+    "match_type": "fuzzy",
+    "confidence_score": 85
+  },
+  "SLC5A9": {
+    "source": "PanglaoDB",
+    "cell_type": "Reticulocytes",
+    "description": "uncoupling protein 3",
+    "match_type": "fuzzy",
+    "confidence_score": 92
+  },
+  "SLC7A2": {
+    "source": "PanglaoDB",
+    "cell_type": "Macrophages",
+    "description": "solute carrier family 37 member 2",
+    "match_type": "fuzzy",
+    "confidence_score": 92
+  },
+  "SLCO1B3": {
+    "source": "CellMarker",
+    "cell_type": "Normal cell",
+    "description": "solute carrier organic anion transporter family member 1B3",
+    "match_type": "exact",
+    "confidence_score": 100
+  },
+  "SLPI": {
+    "source": "PanglaoDB",
+    "cell_type": "Ductal cells",
+    "description": "secretory leukocyte peptidase inhibitor",
+    "match_type": "exact",
+    "confidence_score": 100
+  },
+  "SMAD5": {
+    "source": "PanglaoDB",
+    "cell_type": "Embryonic stem cells",
+    "description": "SMAD family member 5",
+    "match_type": "exact",
+    "confidence_score": 100
+  },
+  "SMIM24": {
+    "source": "PanglaoDB",
+    "cell_type": "Alpha cells",
+    "description": "small integral membrane protein 24",
+    "match_type": "exact",
+    "confidence_score": 100
+  },
+  "SMYD2": {
+    "source": "CellMarker",
+    "cell_type": "Normal cell",
+    "description": "SET and MYND domain containing 2",
+    "match_type": "exact",
+    "confidence_score": 100
+  },
+  "SNAP25": {
+    "source": "PanglaoDB",
+    "cell_type": "Chromaffin cells",
+    "description": "synaptosome associated protein 25",
+    "match_type": "exact",
+    "confidence_score": 100
+  },
+  "SNCA": {
+    "source": "PanglaoDB",
+    "cell_type": "Erythroid-like and erythroid precursor cells",
+    "description": "synuclein alpha",
+    "match_type": "exact",
+    "confidence_score": 100
+  },
+  "SOD3": {
+    "source": "PanglaoDB",
+    "cell_type": "Endothelial cells (aorta)",
+    "description": "superoxide dismutase 3",
+    "match_type": "exact",
+    "confidence_score": 100
+  },
+  "SOX2": {
+    "source": "PanglaoDB",
+    "cell_type": "Embryonic stem cells",
+    "description": "SRY-box 2",
+    "match_type": "exact",
+    "confidence_score": 100
+  },
+  "SOX4": {
+    "source": "CellMarker",
+    "cell_type": "Normal cell",
+    "description": "SRY-box transcription factor 4",
+    "match_type": "exact",
+    "confidence_score": 100
+  },
+  "SOX6": {
+    "source": "PanglaoDB",
+    "cell_type": "Chondrocytes",
+    "description": "SRY-box 6",
+    "match_type": "exact",
+    "confidence_score": 100
+  },
+  "SOX9": {
+    "source": "PanglaoDB",
+    "cell_type": "Astrocytes",
+    "description": "SRY-box 9",
+    "match_type": "exact",
+    "confidence_score": 100
+  },
+  "SPARC": {
+    "source": "PanglaoDB",
+    "cell_type": "Endothelial cells",
+    "description": "secreted protein acidic and cysteine rich",
+    "match_type": "exact",
+    "confidence_score": 100
+  },
+  "SPINT1": {
+    "source": "PanglaoDB",
+    "cell_type": "Enterocytes",
+    "description": "solute carrier family 28 member 2",
+    "match_type": "fuzzy",
+    "confidence_score": 90
+  },
+  "SPINT2": {
+    "source": "CellMarker",
+    "cell_type": "Normal cell",
+    "description": "serine peptidase inhibitor, Kunitz type 2",
+    "match_type": "exact",
+    "confidence_score": 100
+  },
+  "SPNS2": {
+    "source": "PanglaoDB",
+    "cell_type": "Endothelial cells",
+    "description": "sphingolipid transporter 2",
+    "match_type": "exact",
+    "confidence_score": 100
+  },
+  "SPP2": {
+    "source": "CellMarker",
+    "cell_type": "Normal cell",
+    "description": "sphingosine-1-phosphate phosphatase 2",
+    "match_type": "exact",
+    "confidence_score": 100
+  },
+  "ST6GALNAC1": {
+    "source": "PanglaoDB",
+    "cell_type": "Basophils",
+    "description": "ST6 N-acetylgalactosaminide alpha-2,6-sialyltransferase 5",
+    "match_type": "fuzzy",
+    "confidence_score": 90
+  },
+  "SULT1A2": {
+    "source": "PanglaoDB",
+    "cell_type": "Adipocytes",
+    "description": "sulfotransferase family 1A member 1",
+    "match_type": "fuzzy",
+    "confidence_score": 85
+  },
+  "SULT2A1": {
+    "source": "PanglaoDB",
+    "cell_type": "Adipocytes",
+    "description": "sulfotransferase family 1A member 1",
+    "match_type": "fuzzy",
+    "confidence_score": 85
+  },
+  "SVOPL": {
+    "source": "CellMarker",
+    "cell_type": "Normal cell",
+    "description": "SVOP like",
+    "match_type": "exact",
+    "confidence_score": 100
+  },
+  "SYNGR1": {
+    "source": "CellMarker",
+    "cell_type": "Normal cell",
+    "description": "synaptogyrin 1",
+    "match_type": "exact",
+    "confidence_score": 100
+  },
+  "SYP": {
+    "source": "PanglaoDB",
+    "cell_type": "Hepatic stellate cells",
+    "description": "synaptophysin",
+    "match_type": "exact",
+    "confidence_score": 100
+  },
+  "SYTL1": {
+    "source": "PanglaoDB",
+    "cell_type": "Adrenergic neurons",
+    "description": "synaptotagmin 1",
+    "match_type": "fuzzy",
+    "confidence_score": 88
+  },
+  "TACC1": {
+    "source": "PanglaoDB",
+    "cell_type": "Cholinergic neurons",
+    "description": "tachykinin precursor 1",
+    "match_type": "fuzzy",
+    "confidence_score": 88
+  },
+  "TACSTD2": {
+    "source": "PanglaoDB",
+    "cell_type": "Cholangiocytes",
+    "description": "tumor associated calcium signal transducer 2",
+    "match_type": "exact",
+    "confidence_score": 100
+  },
+  "TALDO1": {
+    "source": "CellMarker",
+    "cell_type": "Normal cell",
+    "description": "transaldolase 1",
+    "match_type": "exact",
+    "confidence_score": 100
+  },
+  "TBC1D4": {
+    "source": "CellMarker",
+    "cell_type": "Normal cell",
+    "description": "TBC1 domain family member 4",
+    "match_type": "exact",
+    "confidence_score": 100
+  },
+  "TCN1": {
+    "source": "PanglaoDB",
+    "cell_type": "Ductal cells",
+    "description": "V-set domain containing T cell activation inhibitor 1",
+    "match_type": "fuzzy",
+    "confidence_score": 88
+  },
+  "TESC": {
+    "source": "PanglaoDB",
+    "cell_type": "Neurons",
+    "description": "tescalcin",
+    "match_type": "exact",
+    "confidence_score": 100
+  },
+  "TFF1": {
+    "source": "PanglaoDB",
+    "cell_type": "Cholangiocytes",
+    "description": "trefoil factor 1",
+    "match_type": "exact",
+    "confidence_score": 100
+  },
+  "TFF2": {
+    "source": "PanglaoDB",
+    "cell_type": "Airway goblet cells",
+    "description": "trefoil factor 2",
+    "match_type": "exact",
+    "confidence_score": 100
+  },
+  "TFF3": {
+    "source": "PanglaoDB",
+    "cell_type": "Cholangiocytes",
+    "description": "trefoil factor 3",
+    "match_type": "exact",
+    "confidence_score": 100
+  },
+  "TFR2": {
+    "source": "PanglaoDB",
+    "cell_type": "Erythroblasts",
+    "description": "transferrin receptor 2",
+    "match_type": "exact",
+    "confidence_score": 100
+  },
+  "TFRC": {
+    "source": "PanglaoDB",
+    "cell_type": "Distal tubule cells",
+    "description": "transferrin receptor",
+    "match_type": "exact",
+    "confidence_score": 100
+  },
+  "TH": {
+    "source": "PanglaoDB",
+    "cell_type": "Adrenergic neurons",
+    "description": "tyrosine hydroxylase",
+    "match_type": "exact",
+    "confidence_score": 100
+  },
+  "THRSP": {
+    "source": "PanglaoDB",
+    "cell_type": "Epithelial cells",
+    "description": "thyroid hormone responsive",
+    "match_type": "exact",
+    "confidence_score": 100
+  },
+  "THY1": {
+    "source": "PanglaoDB",
+    "cell_type": "Embryonic stem cells",
+    "description": "Thy-1 cell surface antigen",
+    "match_type": "exact",
+    "confidence_score": 100
+  },
+  "TIGIT": {
+    "source": "CellMarker",
+    "cell_type": "Cancer cell",
+    "description": "T cell immunoreceptor with Ig and ITIM domains",
+    "match_type": "exact",
+    "confidence_score": 100
+  },
+  "TIMP1": {
+    "source": "PanglaoDB",
+    "cell_type": "Adipocytes",
+    "description": "TIMP metallopeptidase inhibitor 1",
+    "match_type": "exact",
+    "confidence_score": 100
+  },
+  "TIMP3": {
+    "source": "PanglaoDB",
+    "cell_type": "Endothelial cells",
+    "description": "TIMP metallopeptidase inhibitor 3",
+    "match_type": "exact",
+    "confidence_score": 100
+  },
+  "TM4SF5": {
+    "source": "PanglaoDB",
+    "cell_type": "Enterocytes",
+    "description": "transmembrane 4 L six family member 5",
+    "match_type": "exact",
+    "confidence_score": 100
+  },
+  "TMC4": {
+    "source": "PanglaoDB",
+    "cell_type": "Enterocytes",
+    "description": "transmembrane channel like 4",
+    "match_type": "exact",
+    "confidence_score": 100
+  },
+  "TMC5": {
+    "source": "CellMarker",
+    "cell_type": "Normal cell",
+    "description": "transmembrane channel like 5",
+    "match_type": "exact",
+    "confidence_score": 100
+  },
+  "TMEM156": {
+    "source": "PanglaoDB",
+    "cell_type": "B cells memory",
+    "description": "transmembrane protein 156",
+    "match_type": "exact",
+    "confidence_score": 100
+  },
+  "TMEM173": {
+    "source": "PanglaoDB",
+    "cell_type": "Microglia",
+    "description": "transmembrane protein 173",
+    "match_type": "exact",
+    "confidence_score": 100
+  },
+  "TMEM92": {
+    "source": "CellMarker",
+    "cell_type": "Normal cell",
+    "description": "transmembrane protein 192",
+    "match_type": "fuzzy",
+    "confidence_score": 92
+  },
+  "TMSB10": {
+    "source": "CellMarker",
+    "cell_type": "Normal cell",
+    "description": "thymosin beta 10",
+    "match_type": "exact",
+    "confidence_score": 100
+  },
+  "TNFAIP3": {
+    "source": "PanglaoDB",
+    "cell_type": "T cells",
+    "description": "TNF alpha induced protein 3",
+    "match_type": "exact",
+    "confidence_score": 100
+  },
+  "TNFRSF12A": {
+    "source": "PanglaoDB",
+    "cell_type": "Myoblasts",
+    "description": "TNF receptor superfamily member 12A",
+    "match_type": "exact",
+    "confidence_score": 100
+  },
+  "TNFRSF25": {
+    "source": "PanglaoDB",
+    "cell_type": "Astrocytes",
+    "description": "CD40 molecule",
+    "match_type": "fuzzy",
+    "confidence_score": 93
+  },
+  "TNFSF13B": {
+    "source": "PanglaoDB",
+    "cell_type": "Plasmacytoid dendritic cells",
+    "description": "TNF superfamily member 13b",
+    "match_type": "exact",
+    "confidence_score": 100
+  },
+  "TNFSF15": {
+    "source": "PanglaoDB",
+    "cell_type": "Platelets",
+    "description": "CD40 ligand",
+    "match_type": "fuzzy",
+    "confidence_score": 92
+  },
+  "TOP2A": {
+    "source": "PanglaoDB",
+    "cell_type": "Gamma delta T cells",
+    "description": "DNA topoisomerase II alpha",
+    "match_type": "exact",
+    "confidence_score": 100
+  },
+  "TRAC": {
+    "source": "PanglaoDB",
+    "cell_type": "T cells",
+    "description": "T cell receptor alpha constant",
+    "match_type": "exact",
+    "confidence_score": 100
+  },
+  "TRBC2": {
+    "source": "PanglaoDB",
+    "cell_type": "T cells",
+    "description": "T cell receptor beta constant 2",
+    "match_type": "exact",
+    "confidence_score": 100
+  },
+  "TRDV1": {
+    "source": "PanglaoDB",
+    "cell_type": "Gamma delta T cells",
+    "description": "T cell receptor delta variable 1",
+    "match_type": "exact",
+    "confidence_score": 100
+  },
+  "TRGV4": {
+    "source": "PanglaoDB",
+    "cell_type": "Gamma delta T cells",
+    "description": "T cell receptor gamma variable 4",
+    "match_type": "exact",
+    "confidence_score": 100
+  },
+  "TRIM45": {
+    "source": "CellMarker",
+    "cell_type": "Normal cell",
+    "description": "tripartite motif containing 4",
+    "match_type": "fuzzy",
+    "confidence_score": 90
+  },
+  "TSPAN1": {
+    "source": "PanglaoDB",
+    "cell_type": "Epithelial cells",
+    "description": "tetraspanin 1",
+    "match_type": "exact",
+    "confidence_score": 100
+  },
+  "TSPAN13": {
+    "source": "PanglaoDB",
+    "cell_type": "Epithelial cells",
+    "description": "tetraspanin 1",
+    "match_type": "fuzzy",
+    "confidence_score": 92
+  },
+  "TSPAN15": {
+    "source": "PanglaoDB",
+    "cell_type": "Oligodendrocytes",
+    "description": "tetraspanin 15",
+    "match_type": "exact",
+    "confidence_score": 100
+  },
+  "TTC39B": {
+    "source": "CellMarker",
+    "cell_type": "Normal cell",
+    "description": "tetratricopeptide repeat domain 39B",
+    "match_type": "exact",
+    "confidence_score": 100
+  },
+  "TUBB": {
+    "source": "PanglaoDB",
+    "cell_type": "Gamma delta T cells",
+    "description": "tubulin beta class I",
+    "match_type": "exact",
+    "confidence_score": 100
+  },
+  "TUT4": {
+    "source": "CellMarker",
+    "cell_type": "Normal cell",
+    "description": "terminal uridylyl transferase 4",
+    "match_type": "exact",
+    "confidence_score": 100
+  },
+  "UGT1A1": {
+    "source": "PanglaoDB",
+    "cell_type": "Hepatocytes",
+    "description": "UDP glucuronosyltransferase family 1 member A1",
+    "match_type": "exact",
+    "confidence_score": 100
+  },
+  "UGT2B10": {
+    "source": "PanglaoDB",
+    "cell_type": "Enterocytes",
+    "description": "UDP glucuronosyltransferase family 2 member B17",
+    "match_type": "fuzzy",
+    "confidence_score": 85
+  },
+  "UNC5CL": {
+    "source": "CellMarker",
+    "cell_type": "Normal cell",
+    "description": "unc-5 netrin receptor C",
+    "match_type": "fuzzy",
+    "confidence_score": 90
+  },
+  "VCAN": {
+    "source": "PanglaoDB",
+    "cell_type": "Dendritic cells",
+    "description": "versican",
+    "match_type": "exact",
+    "confidence_score": 100
+  },
+  "VEPH1": {
+    "source": "CellMarker",
+    "cell_type": "Normal cell",
+    "description": "ventricular zone expressed PH domain containing 1",
+    "match_type": "exact",
+    "confidence_score": 100
+  },
+  "VILL": {
+    "source": "PanglaoDB",
+    "cell_type": "Enterocytes",
+    "description": "villin 1",
+    "match_type": "fuzzy",
+    "confidence_score": 85
+  },
+  "VIM": {
+    "source": "PanglaoDB",
+    "cell_type": "Astrocytes",
+    "description": "vimentin",
+    "match_type": "exact",
+    "confidence_score": 100
+  },
+  "VIP": {
+    "source": "PanglaoDB",
+    "cell_type": "Enteric neurons",
+    "description": "vasoactive intestinal peptide",
+    "match_type": "exact",
+    "confidence_score": 100
+  },
+  "VNN3": {
+    "source": "CellMarker",
+    "cell_type": "Normal cell",
+    "description": "vanin 3, pseudogene",
+    "match_type": "fuzzy",
+    "confidence_score": 88
+  },
+  "VSIG1": {
+    "source": "PanglaoDB",
+    "cell_type": "Erythroid-like and erythroid precursor cells",
+    "description": "radical S-adenosyl methionine domain containing 2",
+    "match_type": "fuzzy",
+    "confidence_score": 88
+  },
+  "WDR35": {
+    "source": "PanglaoDB",
+    "cell_type": "Germ cells",
+    "description": "WD repeat domain 5",
+    "match_type": "fuzzy",
+    "confidence_score": 88
+  },
+  "ZBTB20": {
+    "source": "CellMarker",
+    "cell_type": "Normal cell",
+    "description": "zinc finger and BTB domain containing 20",
+    "match_type": "exact",
+    "confidence_score": 100
+  },
+  "ZNF713": {
+    "source": "CellMarker",
+    "cell_type": "Normal cell",
+    "description": "zinc finger protein 713",
+    "match_type": "exact",
+    "confidence_score": 100
+  }
+}

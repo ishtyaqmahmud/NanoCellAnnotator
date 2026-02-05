@@ -1,0 +1,456 @@
+gene,source,match_type,score,matched_col,cell_type,description
+ABCC4,PanglaoDB,exact,100,symbol,Platelets,ATP binding cassette subfamily C member 4
+ACE2,PanglaoDB,fuzzy,88,symbol,Basal cells,beta-secretase 2
+ACSL5,PanglaoDB,exact,100,symbol,Enterocytes,acyl-CoA synthetase long chain family member 5
+ADAM12,PanglaoDB,exact,100,symbol,Adipocytes,ADAM metallopeptidase domain 12
+ADH4,PanglaoDB,fuzzy,88,alias,Airway epithelial cells,"alcohol dehydrogenase 7 (class IV), mu or sigma polypeptide"
+ADH6,PanglaoDB,fuzzy,88,alias,Ductal cells,aldehyde dehydrogenase 1 family member A3
+AFF3,PanglaoDB,exact,100,symbol,Epsilon cells,AF4/FMR2 family member 3
+AGR2,PanglaoDB,exact,100,symbol,Airway goblet cells,"anterior gradient 2, protein disulphide isomerase family member"
+AGR3,CellMarker,exact,100,symbol,Normal cell,"anterior gradient 3, protein disulphide isomerase family member"
+AGXT,PanglaoDB,fuzzy,88,symbol,Proximal tubule cells,alanine--glyoxylate aminotransferase 2
+AGXT2,PanglaoDB,exact,100,symbol,Proximal tubule cells,alanine--glyoxylate aminotransferase 2
+AHSG,PanglaoDB,exact,100,symbol,Erythroid-like and erythroid precursor cells,alpha 2-HS glycoprotein
+AIF1,PanglaoDB,exact,100,symbol,Dendritic cells,allograft inflammatory factor 1
+AKR1B10,PanglaoDB,exact,100,symbol,Foveolar cells,aldo-keto reductase family 1 member B10
+AKR1C1,PanglaoDB,exact,100,symbol,Hepatocytes,aldo-keto reductase family 1 member C1
+AKR1C3,PanglaoDB,exact,100,symbol,Acinar cells,aldo-keto reductase family 1 member C3
+ALDH1A1,PanglaoDB,exact,100,symbol,Alpha cells,aldehyde dehydrogenase 1 family member A1
+ALDOB,PanglaoDB,exact,100,symbol,Acinar cells,"aldolase, fructose-bisphosphate B"
+ALKAL2,CellMarker,exact,100,symbol,Normal cell,ALK and LTK ligand 2
+AMN,CellMarker,fuzzy,85,symbol,Normal cell,amelotin
+ANPEP,PanglaoDB,exact,100,symbol,Acinar cells,"alanyl aminopeptidase, membrane"
+ANXA1,PanglaoDB,exact,100,symbol,Dendritic cells,annexin A1
+ANXA13,PanglaoDB,exact,100,symbol,Epsilon cells,annexin A13
+ANXA3,PanglaoDB,fuzzy,90,symbol,Epsilon cells,annexin A13
+ANXA4,PanglaoDB,exact,100,symbol,Ductal cells,annexin A4
+APCDD1,CellMarker,exact,100,symbol,Normal cell,APC down-regulated 1
+APOA4,PanglaoDB,exact,100,symbol,Enterocytes,apolipoprotein A4
+APOA5,PanglaoDB,exact,100,symbol,Hepatocytes,apolipoprotein A5
+APOD,PanglaoDB,exact,100,symbol,Schwann cells,apolipoprotein D
+AQP1,PanglaoDB,exact,100,symbol,Airway epithelial cells,aquaporin 1 (Colton blood group)
+ARG1,PanglaoDB,exact,100,symbol,Dendritic cells,arginase 1
+ARHGAP24,PanglaoDB,exact,100,symbol,Podocytes,Rho GTPase activating protein 24
+ARSE,PanglaoDB,fuzzy,85,alias,Oligodendrocytes,TYRO3 protein tyrosine kinase
+ART4,PanglaoDB,fuzzy,85,alias,Chromaffin cells,agouti related neuropeptide
+ASCL1,PanglaoDB,exact,100,symbol,Immature neurons,achaete-scute family bHLH transcription factor 1
+ASPN,PanglaoDB,exact,100,symbol,Enterocytes,asporin
+ATP1A1,CellMarker,exact,100,symbol,Normal cell,ATPase Na+/K+ transporting subunit alpha 3
+AURKA,CellMarker,exact,100,symbol,Normal cell,aurora kinase A
+AURKB,PanglaoDB,exact,100,symbol,Gamma delta T cells,aurora kinase B
+BAMBI,CellMarker,exact,100,symbol,Normal cell,BMP and activin membrane bound inhibitor
+BANK1,PanglaoDB,exact,100,symbol,B cells,B cell scaffold protein with ankyrin repeats 1
+BATF,PanglaoDB,fuzzy,88,symbol,Dendritic cells,basic leucine zipper ATF-like transcription factor 3
+BCL2L15,PanglaoDB,fuzzy,85,symbol,Germ cells,BCL2 like 14
+BICC1,CellMarker,exact,100,symbol,Normal cell,BicC family RNA binding protein 1
+BIRC5,PanglaoDB,exact,100,symbol,Gamma delta T cells,baculoviral IAP repeat containing 5
+BMPR1A,CellMarker,exact,100,symbol,Normal cell,bone morphogenetic protein receptor type 1A
+BRAF,PanglaoDB,exact,100,symbol,B cells naive,"B-Raf proto-oncogene, serine/threonine kinase"
+BSG,CellMarker,exact,100,symbol,Normal cell,basigin (Ok blood group)
+C15ORF48,PanglaoDB,exact,100,symbol,Acinar cells,chromosome 15 open reading frame 48
+C1QA,PanglaoDB,exact,100,symbol,Kupffer cells,complement C1q A chain
+C1QC,PanglaoDB,exact,100,symbol,Kupffer cells,complement C1q C chain
+C1QTNF12,PanglaoDB,fuzzy,93,symbol,Endothelial cells,C1q and TNF related 1
+C5,CellMarker,exact,100,symbol,Normal cell,complement C5
+C9ORF152,PanglaoDB,fuzzy,87,alias,Germ cells,spermatogenesis and oogenesis specific basic helix-loop-helix 1
+CA1,PanglaoDB,exact,100,symbol,Enterocytes,carbonic anhydrase 1
+CALB1,PanglaoDB,exact,100,symbol,Distal tubule cells,calbindin 1
+CALB2,PanglaoDB,exact,100,symbol,Cajal-Retzius cells,calbindin 2
+CALCA,PanglaoDB,exact,100,symbol,Sebocytes,calcitonin related polypeptide alpha
+CANX,CellMarker,exact,100,symbol,Normal cell,calnexin
+CAPN8,CellMarker,exact,100,symbol,Normal cell,calpain 8
+CASR,PanglaoDB,exact,100,symbol,Beta cells,calcium sensing receptor
+CCL19,PanglaoDB,exact,100,symbol,Endothelial cells,C-C motif chemokine ligand 19
+CCL2,PanglaoDB,exact,100,symbol,Ductal cells,C-C motif chemokine ligand 2
+CCL20,PanglaoDB,exact,100,symbol,Epithelial cells,C-C motif chemokine ligand 20
+CCL4,PanglaoDB,exact,100,symbol,Basophils,C-C motif chemokine ligand 4
+CCL5,PanglaoDB,exact,100,symbol,Eosinophils,C-C motif chemokine ligand 5
+CCL8,PanglaoDB,fuzzy,88,symbol,Dendritic cells,C-X-C motif chemokine ligand 8
+CCNB1,PanglaoDB,exact,100,symbol,Gamma delta T cells,cyclin B1
+CCR7,PanglaoDB,exact,100,symbol,Astrocytes,C-C motif chemokine receptor 7
+CCRL2,PanglaoDB,exact,100,symbol,Microglia,C-C motif chemokine receptor like 2
+CD14,PanglaoDB,exact,100,symbol,B cells,CD14 molecule
+CD163,PanglaoDB,exact,100,symbol,Dendritic cells,CD163 molecule
+CD2,PanglaoDB,exact,100,symbol,B cells,CD2 molecule
+CD24,PanglaoDB,exact,100,symbol,B cells,CD24 molecule
+CD3E,PanglaoDB,exact,100,symbol,Macrophages,CD3e molecule
+CD4,PanglaoDB,exact,100,symbol,Plasmacytoid dendritic cells,CD4 molecule
+CD40LG,PanglaoDB,exact,100,symbol,Platelets,CD40 ligand
+CD44,PanglaoDB,exact,100,symbol,Basophils,CD44 molecule (Indian blood group)
+CD63,PanglaoDB,fuzzy,88,alias,Astrocytes,sphingosine-1-phosphate receptor 1
+CD68,PanglaoDB,exact,100,symbol,Macrophages,CD68 molecule
+CD7,PanglaoDB,exact,100,symbol,Gamma delta T cells,CD7 molecule
+CD79B,PanglaoDB,exact,100,symbol,B cells,CD79b molecule
+CD83,PanglaoDB,exact,100,symbol,Dendritic cells,CD83 molecule
+CD8A,PanglaoDB,exact,100,symbol,Dendritic cells,CD8a molecule
+CD8B,PanglaoDB,exact,100,symbol,T cells,CD8b molecule
+CDA,PanglaoDB,fuzzy,85,symbol,Dendritic cells,CD1a molecule
+CDH1,PanglaoDB,exact,100,symbol,Airway epithelial cells,cadherin 1
+CDH2,PanglaoDB,exact,100,symbol,Hematopoietic stem cells,cadherin 2
+CDH24,PanglaoDB,fuzzy,90,alias,Tuft cells,cadherin related family member 2
+CDH6,PanglaoDB,exact,100,symbol,Loop of Henle cells,cadherin 6
+CFH,CellMarker,exact,100,symbol,Normal cell,complement factor H
+CFHR4,CellMarker,exact,100,symbol,Normal cell,complement factor H related 4
+CHAT,PanglaoDB,exact,100,symbol,Cholinergic neurons,choline O-acetyltransferase
+CHST4,CellMarker,fuzzy,88,symbol,Normal cell,cystatin S
+CHST9,PanglaoDB,fuzzy,88,symbol,Sertoli cells,cystatin 9
+CLDN4,PanglaoDB,exact,100,symbol,Cholangiocytes,claudin 4
+CLDN7,PanglaoDB,exact,100,symbol,Epiblast cells,claudin 7
+CLHC1,CellMarker,exact,100,symbol,Normal cell,clathrin heavy chain linker domain containing 1
+CLU,PanglaoDB,exact,100,symbol,Müller cells,clusterin
+COCH,CellMarker,exact,100,symbol,Normal cell,cochlin
+COL19A1,PanglaoDB,fuzzy,92,symbol,Chondrocytes,collagen type IX alpha 1 chain
+COL4A2,PanglaoDB,exact,100,symbol,Müller cells,collagen type IV alpha 2 chain
+COL5A2,PanglaoDB,exact,100,symbol,Fibroblasts,collagen type V alpha 2 chain
+COL6A1,PanglaoDB,exact,100,symbol,Chondrocytes,collagen type VI alpha 1 chain
+COL6A2,PanglaoDB,exact,100,symbol,Adipocytes,collagen type VI alpha 2 chain
+COL6A3,PanglaoDB,exact,100,symbol,Fibroblasts,collagen type VI alpha 3 chain
+CPA3,PanglaoDB,exact,100,symbol,Basophils,carboxypeptidase A3
+CRYAB,PanglaoDB,exact,100,symbol,Schwann cells,crystallin alpha B
+CRYBG1,PanglaoDB,fuzzy,90,alias,Epithelial cells,crystallin beta A1
+CST3,PanglaoDB,fuzzy,88,alias,Neurons,calsyntenin 3
+CTLA4,PanglaoDB,exact,100,symbol,T regulatory cells,cytotoxic T-lymphocyte associated protein 4
+CTNND2,PanglaoDB,fuzzy,90,alias,Pulmonary alveolar type II cells,catenin delta 1
+CTSB,PanglaoDB,fuzzy,85,alias,Alpha cells,transthyretin
+CTSG,PanglaoDB,exact,100,symbol,Mast cells,cathepsin G
+CTSK,PanglaoDB,exact,100,symbol,Fibroblasts,cathepsin K
+CTTNBP2,PanglaoDB,exact,100,symbol,Neurons,cortactin binding protein 2
+CX3CL1,PanglaoDB,exact,100,symbol,Osteoblasts,C-X3-C motif chemokine ligand 1
+CXCL1,PanglaoDB,exact,100,symbol,Cholangiocytes,C-X-C motif chemokine ligand 1
+CXCL12,PanglaoDB,exact,100,symbol,Epiblast cells,C-X-C motif chemokine ligand 12
+CXCL2,PanglaoDB,exact,100,symbol,Alveolar macrophages,C-X-C motif chemokine ligand 2
+CXCL3,PanglaoDB,exact,100,symbol,Fibroblasts,C-X-C motif chemokine ligand 3
+CXCL8,PanglaoDB,exact,100,symbol,Dendritic cells,C-X-C motif chemokine ligand 8
+CXCR4,PanglaoDB,exact,100,symbol,B cells,C-X-C motif chemokine receptor 4
+CYP1A2,PanglaoDB,exact,100,symbol,Hepatocytes,cytochrome P450 family 1 subfamily A member 2
+CYP3A4,PanglaoDB,exact,100,symbol,Enterocytes,cytochrome P450 family 3 subfamily A member 4
+CYP3A5,CellMarker,exact,100,symbol,Cancer cell,cytochrome P450 family 3 subfamily A member 5
+CYP4A11,PanglaoDB,fuzzy,85,symbol,Sebocytes,cytochrome P450 family 24 subfamily A member 1
+CYP4F3,CellMarker,exact,100,symbol,Normal cell,cytochrome P450 family 4 subfamily F member 3
+DBH,PanglaoDB,exact,100,symbol,Adrenergic neurons,dopamine beta-hydroxylase
+DCDC2,PanglaoDB,exact,100,symbol,Ductal cells,doublecortin domain containing 2
+DCX,PanglaoDB,exact,100,symbol,Neural stem/precursor cells,doublecortin
+DEFB1,PanglaoDB,exact,100,symbol,Cholangiocytes,defensin beta 1
+DENND6B,PanglaoDB,fuzzy,85,symbol,B cells memory,DENN domain containing 5B
+DIP2C,CellMarker,exact,100,symbol,Normal cell,disco interacting protein 2 homolog C
+DLG4,PanglaoDB,exact,100,symbol,Neurons,discs large MAGUK scaffold protein 4
+DSEL,CellMarker,exact,100,symbol,Normal cell,dermatan sulfate epimerase like
+DUOX2,PanglaoDB,fuzzy,90,symbol,Acinar cells,dual oxidase maturation factor 2
+DYNC2LI1,CellMarker,exact,100,symbol,Normal cell,dynein cytoplasmic 2 light intermediate chain 1
+EGFR,PanglaoDB,exact,100,symbol,Adipocyte progenitor cells,epidermal growth factor receptor
+EGLN3,PanglaoDB,exact,100,symbol,Macrophages,egl-9 family hypoxia inducible factor 3
+ELF3,PanglaoDB,exact,100,symbol,Cholangiocytes,E74 like ETS transcription factor 3
+ELOVL7,PanglaoDB,exact,100,symbol,Oligodendrocytes,ELOVL fatty acid elongase 7
+EMP3,PanglaoDB,fuzzy,85,alias,Alpha cells,prostaglandin E receptor 3
+EPB41L4A,PanglaoDB,fuzzy,87,symbol,Hepatocytes,erythrocyte membrane protein band 4.1 like 4B
+EPCAM,PanglaoDB,exact,100,symbol,Cholangiocytes,epithelial cell adhesion molecule
+EPN3,PanglaoDB,fuzzy,85,alias,Alpha cells,prostaglandin E receptor 3
+ERN2,CellMarker,exact,100,symbol,Normal cell,endoplasmic reticulum to nucleus signaling 2
+EVC,PanglaoDB,fuzzy,85,symbol,Retinal ganglion cells,EvC ciliary complex subunit 2
+F11,PanglaoDB,fuzzy,85,symbol,Platelets,F11 receptor
+F2,CellMarker,exact,100,symbol,Normal cell,transcription termination factor 2
+F5,PanglaoDB,exact,100,symbol,Epithelial cells,coagulation factor V
+FAM107B,PanglaoDB,fuzzy,85,symbol,Endothelial cells,family with sequence similarity 167 member B
+FAM149A,PanglaoDB,fuzzy,85,symbol,Cajal-Retzius cells,"family with sequence similarity 196, member A"
+FAM171A1,CellMarker,exact,100,symbol,Normal cell,family with sequence similarity 171 member A1
+FAM177B,PanglaoDB,fuzzy,85,symbol,Endothelial cells,family with sequence similarity 167 member B
+FAM189A1,PanglaoDB,fuzzy,93,symbol,Enteric neurons,"family with sequence similarity 19 member A1, C-C motif chemokine like"
+FAM83E,CellMarker,exact,100,symbol,Normal cell,family with sequence similarity 83 member E
+FARP1,CellMarker,exact,100,symbol,Normal cell,"FERM, ARH/RhoGEF and pleckstrin domain protein 1"
+FBLN1,PanglaoDB,fuzzy,88,symbol,Fibroblasts,fibrillin 1
+FBXO17,PanglaoDB,fuzzy,90,symbol,Enteric neurons,F-box protein 7
+FBXW4,CellMarker,exact,100,symbol,Normal cell,F-box and WD repeat domain containing 4
+FCER2,PanglaoDB,exact,100,symbol,B cells,Fc fragment of IgE receptor II
+FCGBP,PanglaoDB,exact,100,symbol,Goblet cells,Fc fragment of IgG binding protein
+FCGR1A,PanglaoDB,exact,100,symbol,Langerhans cells,Fc fragment of IgG receptor Ia
+FCGR3A,PanglaoDB,exact,100,symbol,Dendritic cells,Fc fragment of IgG receptor IIIa
+FCN1,PanglaoDB,exact,100,symbol,Monocytes,ficolin 1
+FCRL1,PanglaoDB,fuzzy,90,alias,B cells,Fc receptor like A
+FGA,PanglaoDB,exact,100,symbol,Hepatocytes,fibrinogen alpha chain
+FGB,PanglaoDB,exact,100,symbol,Gamma (PP) cells,fibrinogen beta chain
+FGFR1,PanglaoDB,exact,100,symbol,Osteoblasts,fibroblast growth factor receptor 1
+FGFR2,PanglaoDB,exact,100,symbol,Luminal epithelial cells,fibroblast growth factor receptor 2
+FGFR3,PanglaoDB,exact,100,symbol,Astrocytes,fibroblast growth factor receptor 3
+FGFR4,PanglaoDB,exact,100,symbol,Hepatocytes,fibroblast growth factor receptor 4
+FGG,PanglaoDB,exact,100,symbol,Hepatocytes,fibrinogen gamma chain
+FKBP11,PanglaoDB,exact,100,symbol,B cells,FK506 binding protein 11
+FLOT1,PanglaoDB,fuzzy,88,symbol,Endothelial cells,fms related tyrosine kinase 1
+FOXP3,PanglaoDB,exact,100,symbol,T helper cells,forkhead box P3
+FRAS1,PanglaoDB,exact,100,symbol,Mesothelial cells,Fraser extracellular matrix complex subunit 1
+FRMD4A,CellMarker,exact,100,symbol,Normal cell,FERM domain containing 4A
+FSTL3,PanglaoDB,exact,100,symbol,Pulmonary alveolar type I cells,follistatin like 3
+FTH1,CellMarker,exact,100,symbol,Normal cell,ferritin heavy chain 1
+FUT2,CellMarker,exact,100,symbol,Normal cell,fucosyltransferase 2
+FXYD2,PanglaoDB,exact,100,symbol,Beta cells,FXYD domain containing ion transport regulator 2
+FXYD3,PanglaoDB,exact,100,symbol,Airway goblet cells,FXYD domain containing ion transport regulator 3
+G6PC,PanglaoDB,exact,100,symbol,Hepatocytes,glucose-6-phosphatase catalytic subunit
+GADD45G,PanglaoDB,fuzzy,85,symbol,Chondrocytes,growth arrest and DNA damage inducible beta
+GAL3ST1,CellMarker,fuzzy,85,symbol,Normal cell,galactose-3-O-sulfotransferase 4
+GALNT5,PanglaoDB,exact,100,symbol,Airway goblet cells,polypeptide N-acetylgalactosaminyltransferase 5
+GAP43,PanglaoDB,exact,100,symbol,Glomus cells,growth associated protein 43
+GATA2,PanglaoDB,exact,100,symbol,Basophils,GATA binding protein 2
+GATA3,PanglaoDB,exact,100,symbol,Adipocyte progenitor cells,GATA binding protein 3
+GCGR,PanglaoDB,exact,100,symbol,Beta cells,glucagon receptor
+GCNT3,CellMarker,exact,100,symbol,Normal cell,"glucosaminyl (N-acetyl) transferase 3, mucin type"
+GDF15,PanglaoDB,exact,100,symbol,Acinar cells,growth differentiation factor 15
+GEM,PanglaoDB,exact,100,symbol,Loop of Henle cells,GTP binding protein overexpressed in skeletal muscle
+GFAP,PanglaoDB,exact,100,symbol,Astrocytes,glial fibrillary acidic protein
+GIMAP7,CellMarker,exact,100,symbol,Normal cell,"GTPase, IMAP family member 7"
+GJB1,PanglaoDB,exact,100,symbol,Embryonic stem cells,gap junction protein beta 1
+GJB2,PanglaoDB,exact,100,symbol,Fibroblasts,gap junction protein beta 2
+GLIS3,PanglaoDB,fuzzy,88,symbol,Chondrocytes,GLI family zinc finger 3
+GNLY,PanglaoDB,exact,100,symbol,Gamma delta T cells,granulysin
+GPRIN3,CellMarker,exact,100,symbol,Normal cell,GPRIN family member 3
+GPT,PanglaoDB,fuzzy,85,alias,Hepatocytes,glucose-6-phosphatase catalytic subunit
+GPX2,PanglaoDB,exact,100,symbol,Paneth cells,glutathione peroxidase 2
+GRN,PanglaoDB,fuzzy,85,symbol,Olfactory epithelial cells,"neugrin, neurite outgrowth associated"
+GSTO1,CellMarker,exact,100,symbol,Normal cell,glutathione S-transferase omega 1
+GZMA,PanglaoDB,exact,100,symbol,Gamma delta T cells,granzyme A
+GZMK,PanglaoDB,exact,100,symbol,NK cells,granzyme K
+HAMP,PanglaoDB,exact,100,symbol,Beta cells,hepcidin antimicrobial peptide
+HAPLN1,PanglaoDB,exact,100,symbol,Chondrocytes,hyaluronan and proteoglycan link protein 1
+HES1,PanglaoDB,exact,100,symbol,Embryonic stem cells,hes family bHLH transcription factor 1
+HIST1H1D,PanglaoDB,exact,100,symbol,Basophils,histone cluster 1 H1 family member d
+HK2,PanglaoDB,exact,100,symbol,Pluripotent stem cells,hexokinase 2
+HMGCS2,PanglaoDB,exact,100,symbol,Epsilon cells,3-hydroxy-3-methylglutaryl-CoA synthase 2
+HMOX1,PanglaoDB,exact,100,symbol,Enterocytes,heme oxygenase 1
+HNF1B,PanglaoDB,exact,100,symbol,Cholangiocytes,HNF1 homeobox B
+HNF4A,PanglaoDB,exact,100,symbol,Enterocytes,hepatocyte nuclear factor 4 alpha
+HNMT,PanglaoDB,exact,100,symbol,Mast cells,histamine N-methyltransferase
+HOMER2,PanglaoDB,exact,100,symbol,Cajal-Retzius cells,homer scaffold protein 2
+HPGD,PanglaoDB,exact,100,symbol,Macrophages,15-hydroxyprostaglandin dehydrogenase
+HSP90B1,CellMarker,exact,100,symbol,Normal cell,heat shock protein 90 beta family member 1
+HTRA1,PanglaoDB,exact,100,symbol,Astrocytes,HtrA serine peptidase 1
+HUNK,CellMarker,exact,100,symbol,Normal cell,hormonally up-regulated Neu-associated kinase
+ICOS,PanglaoDB,exact,100,symbol,Nuocytes,inducible T cell costimulator
+ID2,PanglaoDB,exact,100,symbol,Merkel cells,inhibitor of DNA binding 2
+IER5,CellMarker,exact,100,symbol,Normal cell,immediate early response 5
+IFI27,PanglaoDB,exact,100,symbol,Endothelial cells,interferon alpha inducible protein 27
+IGFBP5,PanglaoDB,exact,100,symbol,Leydig cells,insulin like growth factor binding protein 5
+IL1B,PanglaoDB,exact,100,symbol,Alveolar macrophages,interleukin 1 beta
+IL1RN,PanglaoDB,exact,100,symbol,Monocytes,interleukin 1 receptor antagonist
+IL22,PanglaoDB,exact,100,symbol,T helper cells,interleukin 22
+IL4I1,CellMarker,exact,100,symbol,Normal cell,interleukin 4 induced 1
+IL7R,PanglaoDB,exact,100,symbol,Nuocytes,interleukin 7 receptor
+IRF8,PanglaoDB,exact,100,symbol,B cells memory,interferon regulatory factor 8
+ITGA6,PanglaoDB,exact,100,symbol,Embryonic stem cells,integrin subunit alpha 6
+ITGB1,PanglaoDB,exact,100,symbol,Bergmann glia,integrin subunit beta 1
+ITGB6,PanglaoDB,exact,100,symbol,Basal cells,integrin subunit beta 6
+ITGB8,PanglaoDB,exact,100,symbol,T regulatory cells,integrin subunit beta 8
+ITK,PanglaoDB,exact,100,symbol,T cells,IL2 inducible T cell kinase
+JAG1,PanglaoDB,exact,100,symbol,Cholangiocytes,jagged 1
+JPT1,PanglaoDB,fuzzy,85,alias,Gamma delta T cells,T cell receptor gamma joining P1
+KCNJ11,PanglaoDB,exact,100,symbol,Glomus cells,potassium voltage-gated channel subfamily J member 11
+KCNJ16,PanglaoDB,exact,100,symbol,Distal tubule cells,potassium voltage-gated channel subfamily J member 16
+KCNN4,PanglaoDB,exact,100,symbol,Erythroid-like and erythroid precursor cells,potassium calcium-activated channel subfamily N member 4
+KIAA0753,PanglaoDB,fuzzy,87,alias,Astrocytes,synemin
+KIF12,CellMarker,exact,100,symbol,Normal cell,kinesin family member 12
+KIF26B,PanglaoDB,fuzzy,90,symbol,Germ cells,kinesin family member 2B
+KIT,PanglaoDB,exact,100,symbol,Cardiac stem and precursor cells,KIT proto-oncogene receptor tyrosine kinase
+KLHDC7A,PanglaoDB,fuzzy,85,symbol,Retinal ganglion cells,kelch domain containing 8A
+KLRD1,PanglaoDB,exact,100,symbol,Gamma delta T cells,killer cell lectin like receptor D1
+KRAS,CellMarker,exact,100,symbol,Cancer cell,"NRAS proto-oncogene, GTPase"
+KRT17,PanglaoDB,exact,100,symbol,Basal cells,keratin 17
+KRT19,PanglaoDB,exact,100,symbol,Cholangiocytes,keratin 19
+KRT7,PanglaoDB,exact,100,symbol,Cholangiocytes,keratin 7
+LAD1,PanglaoDB,exact,100,symbol,Oligodendrocyte progenitor cells,ladinin 1
+LAG3,PanglaoDB,exact,100,symbol,Microglia,lymphocyte activating 3
+LCN2,PanglaoDB,exact,100,symbol,Astrocytes,lipocalin 2
+LEF1,PanglaoDB,exact,100,symbol,Embryonic stem cells,lymphoid enhancer binding factor 1
+LEPROTL1,CellMarker,exact,100,symbol,Normal cell,leptin receptor overlapping transcript like 1
+LFNG,CellMarker,exact,100,symbol,Cancer cell,LFNG O-fucosylpeptide 3-beta-N-acetylglucosaminyltransferase
+LGALS1,PanglaoDB,fuzzy,92,symbol,Adipocytes,galectin 12
+LGALS3,PanglaoDB,exact,100,symbol,Dendritic cells,galectin 3
+LGALS3BP,PanglaoDB,fuzzy,94,alias,Bergmann glia,BTB domain containing 17
+LGALS8,PanglaoDB,exact,100,symbol,Platelets,galectin 8
+LIN7A,PanglaoDB,exact,100,symbol,Photoreceptor cells,"lin-7 homolog A, crumbs cell polarity complex component"
+LIPC,PanglaoDB,exact,100,symbol,Hepatocytes,"lipase C, hepatic type"
+LOXL4,PanglaoDB,exact,100,symbol,Alpha cells,lysyl oxidase like 4
+LUM,PanglaoDB,exact,100,symbol,Chondrocytes,lumican
+LY6E,PanglaoDB,exact,100,symbol,Monocytes,lymphocyte antigen 6 family member E
+LY75,PanglaoDB,exact,100,symbol,Dendritic cells,lymphocyte antigen 75
+LYVE1,PanglaoDB,exact,100,symbol,Endothelial cells,lymphatic vessel endothelial hyaluronan receptor 1
+MAOB,PanglaoDB,exact,100,symbol,Adipocytes,monoamine oxidase B
+MAP2,PanglaoDB,exact,100,symbol,Pyramidal cells,microtubule associated protein 2
+MAT1A,CellMarker,exact,100,symbol,Normal cell,methionine adenosyltransferase 1A
+MCM2,CellMarker,exact,100,symbol,Normal cell,minichromosome maintenance complex component 7
+MFAP4,CellMarker,exact,100,symbol,Cancer cell,microfibril associated protein 4
+MFAP5,PanglaoDB,exact,100,symbol,Fibroblasts,microfibril associated protein 5
+MFSD2A,PanglaoDB,exact,100,symbol,Endothelial cells,major facilitator superfamily domain containing 2A
+MGP,PanglaoDB,exact,100,symbol,Chondrocytes,matrix Gla protein
+MKI67,PanglaoDB,exact,100,symbol,Gamma delta T cells,marker of proliferation Ki-67
+MLPH,PanglaoDB,exact,100,symbol,Mast cells,melanophilin
+MMP15,PanglaoDB,fuzzy,88,symbol,Stromal cells,matrix metallopeptidase 1
+MMP2,PanglaoDB,exact,100,symbol,Adipocytes,matrix metallopeptidase 2
+MMP3,PanglaoDB,exact,100,symbol,Adipocyte progenitor cells,matrix metallopeptidase 3
+MRS2,PanglaoDB,fuzzy,85,alias,Macrophages,ADAM metallopeptidase domain 8
+MS4A1,PanglaoDB,exact,100,symbol,B cells,membrane spanning 4-domains A1
+MS4A2,PanglaoDB,exact,100,alias,B cells,membrane spanning 4-domains A1
+MS4A7,PanglaoDB,exact,100,alias,Macrophages,membrane spanning 4-domains A4A
+MS4A8,PanglaoDB,exact,100,symbol,Delta cells,membrane spanning 4-domains A8
+MSLN,PanglaoDB,exact,100,symbol,Airway goblet cells,mesothelin
+MUC1,PanglaoDB,exact,100,symbol,Acinar cells,"mucin 1, cell surface associated"
+MUC13,PanglaoDB,exact,100,symbol,Enterocytes,"mucin 13, cell surface associated"
+MUC20,PanglaoDB,exact,100,symbol,Airway goblet cells,"mucin 20, cell surface associated"
+MUC3A,CellMarker,exact,100,symbol,Normal cell,"mucin 3B, cell surface associated"
+MYB,PanglaoDB,exact,100,symbol,Ependymal cells,"MYB proto-oncogene, transcription factor"
+MYL6,PanglaoDB,fuzzy,85,alias,Embryonic stem cells,promyelocytic leukemia
+MYOM1,PanglaoDB,exact,100,symbol,Cardiomyocytes,myomesin 1
+MYRF,PanglaoDB,exact,100,symbol,Oligodendrocytes,myelin regulatory factor
+NBL1,PanglaoDB,fuzzy,85,alias,Neutrophils,CD177 molecule
+NCAM1,PanglaoDB,exact,100,symbol,Natural killer T cells,neural cell adhesion molecule 1
+NEO1,PanglaoDB,exact,100,symbol,Hematopoietic stem cells,neogenin 1
+NEUROD1,PanglaoDB,exact,100,symbol,Alpha cells,neuronal differentiation 1
+NGFR,PanglaoDB,exact,100,symbol,Hepatic stellate cells,nerve growth factor receptor
+NKG7,PanglaoDB,exact,100,symbol,Gamma delta T cells,natural killer cell granule protein 7
+NOVA1,CellMarker,exact,100,symbol,Normal cell,NOVA alternative splicing regulator 1
+NUAK2,CellMarker,exact,100,symbol,Normal cell,NUAK family kinase 2
+ODF2L,PanglaoDB,fuzzy,88,symbol,Germ cells,outer dense fiber of sperm tails 2
+OGDHL,PanglaoDB,fuzzy,88,symbol,Transient cells,oxoglutarate dehydrogenase
+OLIG2,PanglaoDB,exact,100,symbol,Oligodendrocyte progenitor cells,oligodendrocyte transcription factor 2
+ONECUT1,PanglaoDB,exact,100,symbol,Ductal cells,one cut homeobox 1
+P2RY12,PanglaoDB,exact,100,symbol,Microglia,purinergic receptor P2Y12
+PAQR5,PanglaoDB,exact,100,symbol,Epithelial cells,progestin and adipoQ receptor family member 5
+PARK7,CellMarker,exact,100,symbol,Normal cell,Parkinsonism associated deglycase
+PAX5,PanglaoDB,exact,100,symbol,B cells,paired box 5
+PCK1,PanglaoDB,exact,100,symbol,Adipocytes,phosphoenolpyruvate carboxykinase 1
+PDGFD,PanglaoDB,exact,100,symbol,Radial glia cells,platelet derived growth factor D
+PDGFRA,PanglaoDB,exact,100,symbol,Fibroblasts,platelet derived growth factor receptor alpha
+PINK1,PanglaoDB,fuzzy,90,symbol,Acinar cells,"serine peptidase inhibitor, Kazal type 1"
+PKHD1,PanglaoDB,exact,100,symbol,Proximal tubule cells,"PKHD1, fibrocystin/polyductin"
+PLA2G10,PanglaoDB,exact,100,symbol,Goblet cells,phospholipase A2 group X
+PLAAT5,CellMarker,exact,100,symbol,Normal cell,phospholipase A and acyltransferase 5
+PLAC8,PanglaoDB,exact,100,symbol,Dendritic cells,placenta specific 8
+PLAC9,CellMarker,exact,100,symbol,Normal cell,placenta associated 9
+PLAUR,PanglaoDB,exact,100,symbol,Leydig cells,"plasminogen activator, urokinase receptor"
+PLEK2,PanglaoDB,fuzzy,88,symbol,Mast cells,pleckstrin
+PLK1,CellMarker,exact,100,symbol,Cancer cell,polo like kinase 1
+PMEPA1,PanglaoDB,exact,100,symbol,Enterocytes,"prostate transmembrane protein, androgen induced 1"
+PON1,CellMarker,exact,100,symbol,Normal cell,paraoxonase 1
+POSTN,PanglaoDB,exact,100,symbol,Adipocytes,periostin
+PPARG,PanglaoDB,exact,100,symbol,Adipocyte progenitor cells,peroxisome proliferator activated receptor gamma
+PREP,CellMarker,exact,100,symbol,Normal cell,prolyl endopeptidase
+PRODH2,CellMarker,exact,100,symbol,Normal cell,proline dehydrogenase 1
+PROM1,PanglaoDB,exact,100,symbol,Crypt cells,prominin 1
+PRR15L,PanglaoDB,exact,100,symbol,Enterocytes,proline rich 15 like
+PRTG,CellMarker,exact,100,symbol,Normal cell,protogenin
+PSAP,PanglaoDB,exact,100,symbol,Monocytes,prosaposin
+PSORS1C1,PanglaoDB,fuzzy,85,alias,Dendritic cells,"major histocompatibility complex, class I, C"
+PTGDS,PanglaoDB,exact,100,symbol,Endothelial cells,prostaglandin D2 synthase
+PTGER4,PanglaoDB,exact,100,symbol,Epsilon cells,prostaglandin E receptor 4
+QPCT,PanglaoDB,exact,100,symbol,Photoreceptor cells,glutaminyl-peptide cyclotransferase
+RAMP1,PanglaoDB,fuzzy,90,alias,Dendritic cells,solute carrier family 11 member 1
+RAP1GAP,CellMarker,exact,100,symbol,Normal cell,RAP1 GTPase activating protein
+RARRES1,PanglaoDB,exact,100,symbol,Basal cells,retinoic acid receptor responder 1
+RBFOX3,PanglaoDB,exact,100,symbol,Immature neurons,RNA binding fox-1 homolog 3
+RBPMS,PanglaoDB,exact,100,symbol,Retinal ganglion cells,"RNA binding protein, mRNA processing factor"
+RERG,PanglaoDB,fuzzy,85,alias,Acinar cells,regenerating family member 1 alpha
+RGS4,PanglaoDB,exact,100,symbol,Alpha cells,regulator of G protein signaling 4
+RIC8B,PanglaoDB,exact,100,symbol,Olfactory epithelial cells,RIC8 guanine nucleotide exchange factor B
+RNF19A,CellMarker,exact,100,symbol,Normal cell,"ring finger protein 19A, RBR E3 ubiquitin protein ligase"
+RORA,PanglaoDB,exact,100,symbol,Interneurons,RAR related orphan receptor A
+RORC,PanglaoDB,exact,100,symbol,T helper cells,RAR related orphan receptor C
+RTKN2,PanglaoDB,exact,100,symbol,Pulmonary alveolar type I cells,rhotekin 2
+S100A10,PanglaoDB,exact,100,symbol,Ductal cells,S100 calcium binding protein A10
+S100A13,PanglaoDB,exact,100,symbol,Endothelial cells,S100 calcium binding protein A13
+S100A4,PanglaoDB,exact,100,symbol,Alveolar macrophages,S100 calcium binding protein A4
+S100P,PanglaoDB,exact,100,symbol,Trophoblast cells,S100 calcium binding protein P
+SCN10A,PanglaoDB,exact,100,symbol,Trigeminal neurons,sodium voltage-gated channel alpha subunit 10
+SDCBP2,CellMarker,fuzzy,90,symbol,Normal cell,syndecan binding protein
+SDR16C5,PanglaoDB,fuzzy,85,alias,Enteric glia cells,dehydrogenase/reductase 3
+SELL,PanglaoDB,exact,100,symbol,B cells naive,selectin L
+SEMA4G,PanglaoDB,fuzzy,90,alias,Sertoli cells,semaphorin 5B
+SEMA6A,PanglaoDB,fuzzy,90,alias,Peri-islet Schwann cells,semaphorin 3B
+SERPINA11,PanglaoDB,fuzzy,94,symbol,Dendritic cells,serpin family A member 1
+SERPINA6,PanglaoDB,exact,100,symbol,Hepatocytes,serpin family A member 6
+SERPINC1,PanglaoDB,fuzzy,87,symbol,Adipocytes,serpin family F member 1
+SFRP2,PanglaoDB,exact,100,symbol,Mesangial cells,secreted frizzled related protein 2
+SFXN1,CellMarker,exact,100,symbol,Normal cell,sideroflexin 1
+SH3YL1,CellMarker,exact,100,symbol,Normal cell,SH3 and SYLF domain containing 1
+SHANK2,PanglaoDB,exact,100,symbol,Purkinje neurons,SH3 and multiple ankyrin repeat domains 2
+SLC12A2,PanglaoDB,exact,100,symbol,Chromaffin cells,solute carrier family 12 member 2
+SLC16A1,PanglaoDB,exact,100,symbol,Interneurons,solute carrier family 16 member 1
+SLC17A4,PanglaoDB,fuzzy,85,symbol,Cajal-Retzius cells,solute carrier family 17 member 6
+SLC18A3,PanglaoDB,exact,100,symbol,Cholinergic neurons,solute carrier family 18 member A3
+SLC2A1,PanglaoDB,exact,100,symbol,Endothelial cells,solute carrier family 2 member 1
+SLC44A3,PanglaoDB,fuzzy,85,alias,Distal tubule cells,Rh family C glycoprotein
+SLC5A9,PanglaoDB,fuzzy,92,alias,Reticulocytes,uncoupling protein 3
+SLC7A2,PanglaoDB,fuzzy,92,symbol,Macrophages,solute carrier family 37 member 2
+SLCO1B3,CellMarker,exact,100,symbol,Normal cell,solute carrier organic anion transporter family member 1B3
+SLPI,PanglaoDB,exact,100,symbol,Ductal cells,secretory leukocyte peptidase inhibitor
+SMAD5,PanglaoDB,exact,100,symbol,Embryonic stem cells,SMAD family member 5
+SMIM24,PanglaoDB,exact,100,symbol,Alpha cells,small integral membrane protein 24
+SMYD2,CellMarker,exact,100,symbol,Normal cell,SET and MYND domain containing 2
+SNAP25,PanglaoDB,exact,100,symbol,Chromaffin cells,synaptosome associated protein 25
+SNCA,PanglaoDB,exact,100,symbol,Erythroid-like and erythroid precursor cells,synuclein alpha
+SOD3,PanglaoDB,exact,100,symbol,Endothelial cells (aorta),superoxide dismutase 3
+SOX2,PanglaoDB,exact,100,symbol,Embryonic stem cells,SRY-box 2
+SOX4,CellMarker,exact,100,symbol,Normal cell,SRY-box transcription factor 4
+SOX6,PanglaoDB,exact,100,symbol,Chondrocytes,SRY-box 6
+SOX9,PanglaoDB,exact,100,symbol,Astrocytes,SRY-box 9
+SPARC,PanglaoDB,exact,100,symbol,Endothelial cells,secreted protein acidic and cysteine rich
+SPINT1,PanglaoDB,fuzzy,90,alias,Enterocytes,solute carrier family 28 member 2
+SPINT2,CellMarker,exact,100,symbol,Normal cell,"serine peptidase inhibitor, Kunitz type 2"
+SPNS2,PanglaoDB,exact,100,symbol,Endothelial cells,sphingolipid transporter 2
+SPP2,CellMarker,exact,100,symbol,Normal cell,sphingosine-1-phosphate phosphatase 2
+ST6GALNAC1,PanglaoDB,fuzzy,90,symbol,Basophils,"ST6 N-acetylgalactosaminide alpha-2,6-sialyltransferase 5"
+SULT1A2,PanglaoDB,fuzzy,85,symbol,Adipocytes,sulfotransferase family 1A member 1
+SULT2A1,PanglaoDB,fuzzy,85,symbol,Adipocytes,sulfotransferase family 1A member 1
+SVOPL,CellMarker,exact,100,symbol,Normal cell,SVOP like
+SYNGR1,CellMarker,exact,100,symbol,Normal cell,synaptogyrin 1
+SYP,PanglaoDB,exact,100,symbol,Hepatic stellate cells,synaptophysin
+SYTL1,PanglaoDB,fuzzy,88,symbol,Adrenergic neurons,synaptotagmin 1
+TACC1,PanglaoDB,fuzzy,88,symbol,Cholinergic neurons,tachykinin precursor 1
+TACSTD2,PanglaoDB,exact,100,symbol,Cholangiocytes,tumor associated calcium signal transducer 2
+TALDO1,CellMarker,exact,100,symbol,Normal cell,transaldolase 1
+TBC1D4,CellMarker,exact,100,symbol,Normal cell,TBC1 domain family member 4
+TCN1,PanglaoDB,fuzzy,88,symbol,Ductal cells,V-set domain containing T cell activation inhibitor 1
+TESC,PanglaoDB,exact,100,symbol,Neurons,tescalcin
+TFF1,PanglaoDB,exact,100,symbol,Cholangiocytes,trefoil factor 1
+TFF2,PanglaoDB,exact,100,symbol,Airway goblet cells,trefoil factor 2
+TFF3,PanglaoDB,exact,100,symbol,Cholangiocytes,trefoil factor 3
+TFR2,PanglaoDB,exact,100,symbol,Erythroblasts,transferrin receptor 2
+TFRC,PanglaoDB,exact,100,symbol,Distal tubule cells,transferrin receptor
+TH,PanglaoDB,exact,100,symbol,Adrenergic neurons,tyrosine hydroxylase
+THRSP,PanglaoDB,exact,100,symbol,Epithelial cells,thyroid hormone responsive
+THY1,PanglaoDB,exact,100,symbol,Embryonic stem cells,Thy-1 cell surface antigen
+TIGIT,CellMarker,exact,100,symbol,Cancer cell,T cell immunoreceptor with Ig and ITIM domains
+TIMP1,PanglaoDB,exact,100,symbol,Adipocytes,TIMP metallopeptidase inhibitor 1
+TIMP3,PanglaoDB,exact,100,symbol,Endothelial cells,TIMP metallopeptidase inhibitor 3
+TM4SF5,PanglaoDB,exact,100,symbol,Enterocytes,transmembrane 4 L six family member 5
+TMC4,PanglaoDB,exact,100,symbol,Enterocytes,transmembrane channel like 4
+TMC5,CellMarker,exact,100,symbol,Normal cell,transmembrane channel like 5
+TMEM156,PanglaoDB,exact,100,symbol,B cells memory,transmembrane protein 156
+TMEM173,PanglaoDB,exact,100,symbol,Microglia,transmembrane protein 173
+TMEM92,CellMarker,fuzzy,92,symbol,Normal cell,transmembrane protein 192
+TMSB10,CellMarker,exact,100,symbol,Normal cell,thymosin beta 10
+TNFAIP3,PanglaoDB,exact,100,symbol,T cells,TNF alpha induced protein 3
+TNFRSF12A,PanglaoDB,exact,100,symbol,Myoblasts,TNF receptor superfamily member 12A
+TNFRSF25,PanglaoDB,fuzzy,93,alias,Astrocytes,CD40 molecule
+TNFSF13B,PanglaoDB,exact,100,symbol,Plasmacytoid dendritic cells,TNF superfamily member 13b
+TNFSF15,PanglaoDB,fuzzy,92,alias,Platelets,CD40 ligand
+TOP2A,PanglaoDB,exact,100,symbol,Gamma delta T cells,DNA topoisomerase II alpha
+TRAC,PanglaoDB,exact,100,symbol,T cells,T cell receptor alpha constant
+TRBC2,PanglaoDB,exact,100,symbol,T cells,T cell receptor beta constant 2
+TRDV1,PanglaoDB,exact,100,symbol,Gamma delta T cells,T cell receptor delta variable 1
+TRGV4,PanglaoDB,exact,100,symbol,Gamma delta T cells,T cell receptor gamma variable 4
+TRIM45,CellMarker,fuzzy,90,symbol,Normal cell,tripartite motif containing 4
+TSPAN1,PanglaoDB,exact,100,symbol,Epithelial cells,tetraspanin 1
+TSPAN13,PanglaoDB,fuzzy,92,symbol,Epithelial cells,tetraspanin 1
+TSPAN15,PanglaoDB,exact,100,symbol,Oligodendrocytes,tetraspanin 15
+TTC39B,CellMarker,exact,100,symbol,Normal cell,tetratricopeptide repeat domain 39B
+TUBB,PanglaoDB,exact,100,symbol,Gamma delta T cells,tubulin beta class I
+TUT4,CellMarker,exact,100,symbol,Normal cell,terminal uridylyl transferase 4
+UGT1A1,PanglaoDB,exact,100,symbol,Hepatocytes,UDP glucuronosyltransferase family 1 member A1
+UGT2B10,PanglaoDB,fuzzy,85,symbol,Enterocytes,UDP glucuronosyltransferase family 2 member B17
+UNC5CL,CellMarker,fuzzy,90,symbol,Normal cell,unc-5 netrin receptor C
+VCAN,PanglaoDB,exact,100,symbol,Dendritic cells,versican
+VEPH1,CellMarker,exact,100,symbol,Normal cell,ventricular zone expressed PH domain containing 1
+VILL,PanglaoDB,fuzzy,85,alias,Enterocytes,villin 1
+VIM,PanglaoDB,exact,100,symbol,Astrocytes,vimentin
+VIP,PanglaoDB,exact,100,symbol,Enteric neurons,vasoactive intestinal peptide
+VNN3,CellMarker,fuzzy,88,symbol,Normal cell,"vanin 3, pseudogene"
+VSIG1,PanglaoDB,fuzzy,88,alias,Erythroid-like and erythroid precursor cells,radical S-adenosyl methionine domain containing 2
+WDR35,PanglaoDB,fuzzy,88,symbol,Germ cells,WD repeat domain 5
+ZBTB20,CellMarker,exact,100,symbol,Normal cell,zinc finger and BTB domain containing 20
+ZNF713,CellMarker,exact,100,symbol,Normal cell,zinc finger protein 713
