@@ -1,30 +1,20 @@
 # NanoCellAnnotator: Formalizing Expert Cell Type Annotation with Large Language Models
 
-## Overview
-
-NanoCellAnnotator is a biologically constrained and confidence-aware framework for automated cell-type annotation in spatial transcriptomics data. The method is designed to address key challenges in spatial analysis, including data sparsity, spatial heterogeneity, and the absence of comprehensive labeled reference atlases.
-
-Unlike unconstrained LLM-based approaches, NanoCellAnnotator explicitly decouples spatial structure discovery, deterministic biological evidence construction, and language-model–based semantic inference into separate stages. Spatially coherent cellular domains are identified upstream, while cluster-level marker genes are abstracted into ontology-derived functional programs using Gene Ontology enrichment and GO-slim projection.
-
-A lightweight large language model (NanoLLM) is employed solely as a constrained semantic integrator, operating on structured biological summaries rather than raw gene expression data or spatial coordinates. Curated reference databases (PanglaoDB and CellMarker) are used exclusively to restrict the admissible space of cell-type labels, preventing biologically unsupported predictions.
-
-Importantly, annotation confidence is assessed independently of language-model inference based on marker-gene support strength and lineage separation. This allows ambiguous or heterogeneous spatial clusters to be explicitly flagged rather than forcibly labeled, preserving biologically meaningful uncertainty.
-
-NanoCellAnnotator operates in a fully unsupervised setting and does not rely on labeled training data or reference atlases. The framework emphasizes reproducibility, interpretability, and evidence-consistent reasoning, making it suitable for both academic research and translational applications in spatial transcriptomics.
+**NanoCellAnnotator** is a biologically constrained, confidence-aware framework for automated cell-type annotation in spatial transcriptomics. Unlike unconstrained LLM approaches that risk biologically unsupported predictions, NanoCellAnnotator decouples spatial discovery from semantic inference to ensure deterministic, interpretable, and reproducible results.
 
 
 ## 🔬 Core Innovations
 
-- **Decoupled Architecture**: Separates spatial structure discovery (hSNMF) from semantic labeling to ensure high-fidelity cellular domains.
+- **Decoupled Architecture**: NanoCellAnnotator explicitly separates spatial structure discovery (via hSNMF) from semantic labeling to ensure annotations are grounded in spatially coherent cellular domains.
 
-- **Ontology-Grounded Reasoning**: Projects marker genes into functional programs via GO-slim for structured biological context.
+- **Ontology-Grounded Reasoning**: The framework projects cluster-specific marker genes into functional programs using Gene Ontology (GO) enrichment and GO-slim projection, providing structured biological context without premature cell-type assignment.
 
-- **Constrained Semantic Inference**: Restricts the admissible label space using PanglaoDB and CellMarker, eliminating LLM hallucinations.
+- **Constrained Semantic Inference**: The system eliminates LLM hallucinations by restricting the admissible label space to curated entries from PanglaoDB and CellMarker.
 
-- **Independent Uncertainty Quantification**: A deterministic confidence scoring system (Lineage Separation & Marker Support) that flags ambiguity without relying on LLM self-reporting.
+- **Independent Uncertainty Quantification**: A deterministic confidence scoring mechanism evaluates marker-gene support and lineage separation independently of the language model to explicitly flag ambiguous clusters.
 
-- **Edge-Ready Deployment**: Uses a lightweight, locally executable model (Qwen2.5-1.5B) for high performance on commodity hardware.
-- 
+- **Edge-Ready Deployment**: The pipeline utilizes Qwen2.5-1.5B-Instruct, a lightweight, locally executable model that ensures reproducibility and data privacy on commodity-grade hardware.
+
 
 ## Methodology Summary
 
