@@ -13,6 +13,19 @@ Importantly, annotation confidence is assessed independently of language-model i
 NanoCellAnnotator operates in a fully unsupervised setting and does not rely on labeled training data or reference atlases. The framework emphasizes reproducibility, interpretability, and evidence-consistent reasoning, making it suitable for both academic research and translational applications in spatial transcriptomics.
 
 
+## 🔬 Core Innovations
+
+- **Decoupled Architecture**: Separates spatial structure discovery (hSNMF) from semantic labeling to ensure high-fidelity cellular domains.
+
+- **Ontology-Grounded Reasoning**: Projects marker genes into functional programs via GO-slim for structured biological context.
+
+- **Constrained Semantic Inference**: Restricts the admissible label space using PanglaoDB and CellMarker, eliminating LLM hallucinations.
+
+- **Independent Uncertainty Quantification**: A deterministic confidence scoring system (Lineage Separation & Marker Support) that flags ambiguity without relying on LLM self-reporting.
+
+- **Edge-Ready Deployment**: Uses a lightweight, locally executable model (Qwen2.5-1.5B) for high performance on commodity hardware.
+- 
+
 ## Methodology Summary
 
 NanoCellAnnotator follows a deterministic, multi-stage pipeline:
