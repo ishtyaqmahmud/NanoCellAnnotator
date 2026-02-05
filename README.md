@@ -37,9 +37,7 @@ NanoCellAnnotator follows a deterministic, multi-stage pipeline:
 
 ## Data Availability
 
-The clinical Xenium spatial transcriptomics datasets used in this study were obtained from MD Anderson Cancer Center and are subject to institutional and patient privacy restrictions.
-
-Due to these constraints, raw clinical data cannot be publicly released.
+The clinical Xenium spatial transcriptomics datasets used in this study were obtained from MD Anderson Cancer Center and are subject to institutional and patient privacy restrictions. Due to these constraints, raw clinical data cannot be publicly released.
 
 To ensure transparency and reproducibility, this repository provides:
 
