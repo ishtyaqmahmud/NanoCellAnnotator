@@ -43,10 +43,57 @@ To ensure transparency and reproducibility, this repository provides:
 
 - The complete NanoCellAnnotator pipeline implementation
 - All curated public reference resources (PanglaoDB, CellMarker, GO-slim)
-- Synthetic and public example datasets that replicate the full
-  annotation workflow
 
 Researchers with access to appropriate Xenium datasets may apply NanoCellAnnotator directly to their own data following the provided instructions.
+
+## Repository Navigation Guide
+
+The repository is organized by research stages rather than as a traditional software package.
+
+### 1. Public Biological Reference Resources (`Data/`)
+Contains curated, public biological knowledge used to constrain inference:
+- PanglaoDB marker gene database
+- CellMarker reference annotations
+- Gene Ontology (GO) and GO-slim resources
+
+These resources are used exclusively to restrict the admissible cell-type label space and do not contain clinical data.
+
+---
+
+### 2. Evidence Construction and Knowledge Processing (`Data_processing/`)
+Implements deterministic preprocessing steps including:
+- Marker gene processing
+- Ontology-based functional abstraction
+- Construction of structured biological summaries
+
+This stage corresponds to Sections 2.2–2.3 of the paper.
+
+---
+
+### 3. Constrained Inference and Annotation (`model_run/`, `Phase2/`)
+Implements the core NanoLLM-guided annotation logic:
+- Candidate label restriction
+- Deterministic label selection
+- Integration of marker and functional evidence
+
+These components correspond to Section 2.4 of the paper.
+
+---
+
+### 4. Confidence Scoring and Ambiguity Handling (`confidence/`)
+Implements independent, deterministic confidence assessment:
+- Marker support aggregation
+- Lineage separation metrics
+- Ambiguity flagging
+
+This stage is independent of LLM inference and corresponds to Section 2.5 of the paper.
+
+---
+
+### 5. Ablation Studies (`Abluation_study/`)
+Contains notebooks and outputs used to generate ablation results reported in the paper (Table 2).
+
+These experiments isolate the effects of evidence representation and constraint mechanisms.
 
 
 ## Reference
