@@ -130,6 +130,15 @@ pip install -r requirements.txt
 
 ## Reference
 
-If you use NanoCellAnnotator, please cite:
+If you find NanoCellAnnotator useful in your research, please consider citing our paper:
 
 Mahmud, M.I., Anzum, H., Kochat, V., Satpati, S., Rai, K., and Banerjee, T. *NanoCellAnnotator: Formalizing Expert Cell Type Annotation with Large Language Models*. ISMB 2026 (submitted).
+
+```bibtex
+@misc{mahmud2026nanocellannotator,
+  title = {NanoCellAnnotator: Formalizing Expert Cell Type Annotation with Large Language Models},
+  author = {Mahmud, M. I. and Anzum, H. and Kochat, V. and Satpati, S. and Rai, K. and Banerjee, T.},
+  year = {2026},
+  note = {Submitted to ISMB 2026}
+}
+```
